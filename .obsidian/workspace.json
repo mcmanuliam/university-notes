@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42bd871431e5d075",
+  "active": "00a6dc9b5010adae",
   "lastOpenFiles": [
+    "projects",
+    "subjects",
+    "quick-notes",
     "test.md",
     "home.md",
     "test.ipynb",

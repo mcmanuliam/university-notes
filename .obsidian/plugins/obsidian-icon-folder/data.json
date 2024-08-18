@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiComputer",
+      "LiPencil",
+      "LiBook",
+      "LiBookmark"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +31,9 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "home.md": "LiBookmark",
+  "subjects": "LiBook",
+  "quick-notes": "LiPencil",
+  "projects": "LiComputer"
 }

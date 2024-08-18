@@ -29,8 +29,8 @@ The notes are organized by subject and year.
 
 Each folder corresponds to a different course or topic. 
 ### File Naming Conventions 
-- `YYYY-MM-DD_topic-name.md`: For date-specific notes. 
-- `project-name.md`: For project documentation. 
+- `YYYY-MM-DD_topic-name.md`: For quick notes. 
+- `project-name.md`: For subject notes. 
 
 ### Note-taking Style 
 - **Bold** for important concepts. 
