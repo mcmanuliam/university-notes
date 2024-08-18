@@ -25,9 +25,7 @@ git clone https://github.com/mcmanuliam/notes.git
 3. **Linter**: Ensures consistent styling across notes.
 
 ## Usage Guidelines 
-The notes are organized by subject and year. 
-
-Each folder corresponds to a different course or topic. 
+The notes are organized by subject and year. Each folder corresponds to a different course or topic. 
 ### File Naming Conventions 
 - `YYYY-MM-DD_topic-name.md`: For quick notes. 
 - `project-name.md`: For subject notes. 

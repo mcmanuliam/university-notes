@@ -2,5 +2,6 @@
   "obsidian-linter",
   "obsidian-git",
   "obsidian-icon-folder",
-  "code-emitter"
+  "code-emitter",
+  "tag-wrangler"
 ]

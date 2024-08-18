@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,11 +130,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 301.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a6dc9b5010adae",
+  "active": "ac385a9511fb6d05",
   "lastOpenFiles": [
     "projects",
     "subjects",
