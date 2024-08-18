@@ -1,5 +1,6 @@
 [
   "obsidian-linter",
   "obsidian-git",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "code-emitter"
 ]

@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a6dc9b5010adae",
+  "active": "42bd871431e5d075",
   "lastOpenFiles": [
+    "test.md",
+    "home.md",
     "test.ipynb",
-    "README.md",
-    "home.md"
+    "README.md"
   ]
 }
