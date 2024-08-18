@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "home.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42bd871431e5d075",
+  "active": "00a6dc9b5010adae",
   "lastOpenFiles": [
+    "test.ipynb",
     "README.md",
-    "Home.md"
+    "home.md"
   ]
 }
