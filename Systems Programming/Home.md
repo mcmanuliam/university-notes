@@ -1,0 +1,35 @@
+Welcome to Systems Programming for 2nd year GAs, yeah a shambles, before you start probably best to take a look into C, it's not too hard but worth learning for this course:
+
+This guide has pretty much all the beginner knowledge you will need to get started wit c, I'll add in another page once I am a bit more experienced with the language:
+#### [[Welcome to Hell]]
+- [[Welcome to Hell#What is C?|What is C?]]
+-  [[Welcome to Hell#Basic Structure|Basic Structure]]
+-  [[Welcome to Hell#Data Types|Data Types]]
+-  [[Welcome to Hell#Integer Types|Integer Types]]
+- [[Welcome to Hell#Floating-Point Types|Floating-Point Types]]
+- [[Welcome to Hell#The Void Type|The Void Type]]
+- [[Welcome to Hell#Variables in C|Variables in C]]
+- [[Welcome to Hell#Variable Definition in C|Variable Definition in C]]
+- [[Welcome to Hell#Variable Declaration in C|Variable Declaration in C]]
+- [[Welcome to Hell#Lvalues and Rvalues in C|Lvalues and Rvalues in C]]
+- [[Welcome to Hell#Constants and Literals|Constants and Literals]]
+- [[Welcome to Hell#Character Constants|Character Constants]]
+- [[Welcome to Hell#Const Keyword|Const Keyword]]
+-  [[Welcome to Hell#Storage Class|Storage Class]]
+- [[Welcome to Hell#Operators|Operators]]
+- [[Welcome to Hell#Conditional Blocks|Conditional Blocks]]
+- [[Welcome to Hell#Loops|Loops]]
+- [[Welcome to Hell#Loop Control|Loop Control]]
+- [[Welcome to Hell#The Infinite Loop|The Infinite Loop]]
+- [[Welcome to Hell#Function|Function]]
+- [[Welcome to Hell#The Basics|The Basics]]
+- [[Welcome to Hell#Defining a Function|Defining a Function]]
+- [[Welcome to Hell#Example Function to Find the Maximum of Two Numbers|Example Function to Find the Maximum of Two Numbers]]
+- [[Welcome to Hell#Function Declaration|Function Declaration]]
+- [[Welcome to Hell#Calling a Function|Calling a Function]]
+- [[Welcome to Hell#Function Arguments|Function Arguments]]
+
+While writing this up I've been doing a few projects:
+
+- [[First Project - Rock, Paper, Scissors]]
+- [[Second Project - Bank Account]]

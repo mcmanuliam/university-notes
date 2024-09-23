@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe35c02bf6f7b011",
+        "id": "820b55136231a019",
         "type": "tabs",
         "children": [
           {
-            "id": "42bd871431e5d075",
+            "id": "4df17fde1f0714f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md"
               }
             }
           }
@@ -148,8 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac385a9511fb6d05",
+  "active": "00a6dc9b5010adae",
   "lastOpenFiles": [
+    "Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
+    "Systems Programming/Idiots guide to C/Welcome to Hell.md",
+    "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
+    "Systems Programming/Home.md",
+    "Howdy.md",
+    "Systems Programming/Idiots guide to C/Projects",
+    "2024-09-23.md",
+    "What.md",
+    "Systems Programming/Idiots guide to C",
+    "Systems Programming/Systems Programming.md",
+    "Systems Programming/Learning C.md",
+    "Systems.md",
+    "Systems Programming",
     "projects",
     "subjects",
     "quick-notes",
