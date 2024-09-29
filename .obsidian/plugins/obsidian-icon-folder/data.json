@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🏦",
-      "🎲",
-      "🖼",
-      "🤠",
-      "💽"
+      "🖥",
+      "😵",
+      "🏠",
+      "💸",
+      "👨‍🏫"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,12 +37,7 @@
   "subjects": "LiBook",
   "quick-notes": "LiPencil",
   "projects": "LiComputer",
-  "Systems Programming/Idiots guide to C": "🤓",
-  "Systems Programming/Idiots guide to C/Welcome to Hell.md": "⚰",
-  "Systems Programming": "💽",
-  "Systems Programming/Home.md": "🏠",
-  "Howdy.md": "🤠",
-  "Systems Programming/Idiots guide to C/Projects": "🖼",
-  "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md": "🎲",
-  "Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md": "🏦"
+  "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md": "🎲",
+  "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md": "🏦",
+  "Year 2/Systems Programming/Idiots guide to C/Projects/Third Project - Shell.md": "🖥"
 }

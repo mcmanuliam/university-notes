@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "820b55136231a019",
+        "id": "114796d0a401fb6e",
         "type": "tabs",
         "children": [
           {
-            "id": "4df17fde1f0714f7",
+            "id": "3ddd8ab1543788f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,11 +44,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "query": "if statement",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,27 +139,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a6dc9b5010adae",
+  "active": "3ddd8ab1543788f3",
   "lastOpenFiles": [
-    "Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
-    "Systems Programming/Idiots guide to C/Welcome to Hell.md",
-    "Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-    "Systems Programming/Home.md",
-    "Howdy.md",
-    "Systems Programming/Idiots guide to C/Projects",
+    "Year 2/Year 2.md",
+    "Setup.md",
+    "Year 2/Systems Programming/SP.md",
+    "Year 2/User Interaction/UI.md",
+    "Year 2/Data Science and Fundamentals/Resources",
+    "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
+    "Year 2/Advanced Professional Software Engineering/Advanced FPSE.md",
+    "Untitled.canvas",
+    "Year 2/Algorithms/ALGOS.md",
+    "Year 2/Data Science and Fundamentals/DSF.md",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
+    "2024-09-29.md",
+    "Year 2/Practical Algorithms/PA.md",
+    "Work/Platform Mania.md",
+    "Work/Rebasing.md",
+    "Work/Dev Learning.md",
+    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
+    "Work/Untitled",
+    "Work",
+    "Year 2",
+    "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/Third Project - Shell.md",
+    "Year 2/Data Science and Fundamentals",
+    "Year 2/Advanced Professional Software Engineering",
+    "Year 2/Algorithms",
+    "Ad.md",
+    "Year 2/Data Storage and Retrieval",
+    "Year 2/Practical Algorithms",
+    "Year 2/User Interaction",
     "2024-09-23.md",
     "What.md",
-    "Systems Programming/Idiots guide to C",
     "Systems Programming/Systems Programming.md",
     "Systems Programming/Learning C.md",
     "Systems.md",
-    "Systems Programming",
-    "projects",
-    "subjects",
-    "quick-notes",
-    "test.md",
-    "home.md",
-    "test.ipynb",
-    "README.md"
+    "test.md"
   ]
 }
