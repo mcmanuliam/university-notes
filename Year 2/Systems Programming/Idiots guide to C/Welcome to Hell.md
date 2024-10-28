@@ -10,6 +10,7 @@ An idiot admires complexity, a genius admires simplicit, a physicist tries to ma
 
 C is a high-level programming language developed in the 1970s. It's known for its efficiency and control over computer memory. Many modern languages like C++, Java, Python and especially Rust have roots in C. Learning C surprisingly although might seem a bit redundant now a days can massively help your understand of these languages.
 
+
 ## Basic Structure
 
 Every C program has a simple structure:

@@ -1,0 +1,77 @@
+#### Why Are Databases Important?
+In 2025, the world will create (a very large number) bytes of data, 40% of that needs to be stored.
+
+Databases are a key technology
+- Used in a wide variety of applications to manage databases
+- Growing in importance - amount of data we store is increasing
+
+Consider the management of all of Facebook's user accounts and data…….. 
+- This is a lot of data and a lot of data management involved!
+
+On this course you will design, build, populate and query your own database using MySQL
+
+It is important you understand the theory, as well as how to use MySQL, so that you will easily be able to design, build and use other database applications in the future
+
+#### Data Information and Knowledge
+Consider the example of handling the billing & monitoring of all UK household telephone calls
+- What kinds of data would you have to store?
+
+Answers:
+- Telephone Numbers
+- Persons Address
+- Addresses
+- Post Codes
+- Account Codes
+- Bank Details
+- Money Owed
+
+Can you think of any issues associated with managing this data on:
+- Paper
+- In Filing Cabinets
+- In Spreadsheets
+
+Answers:
+- Storage
+- Not shareable
+- Not secure
+- Hard to filter
+- Hard to retrieve specific data
+
+What about managing all of Amazon's databases
+- 20 million products
+- Need to hold terabytes of databases
+- 310 million users, with thousands of users active at the same time
+- Processing distributed around the world
+- Need access to data for monitoring and looking for significant patterns
+- Reliability and Security important
+	- e.g. required by EU's GDPR
+
+#### Managing Data
+- If we've got lot's of data to store we need a really good way to store that data.
+- We also need good ways to be able to access that data quickly and easily
+- And we don't want lots of different versions of the data all over the place - we want to avoid REDUNDANCY.
+
+Our data storage tool must provide these features:
+- Data definition (data structuring)
+- Data entry (to add new data)
+- Data editing (to change existing data)
+- Querying (a means of extracting data by a description)
+- Persistence (data existing beyond a single operation or program invocation)
+
+#### Strategies for Data Management
+- A program where all the data is held in the program's memory
+- But no data persistence between invocations of a program
+- The data is reconstructed (or re-entered) at each invocation of the platform 
+
+Files of data on disk that can be accessed by different applications
+- Each application is responsible for it's own representations of the data 
+- Difficult to coordinate between applications
+- Might be different versions of the data
+
+Combine together all the functions of data storage and access for a related set of tasks:
+- handling student records
+- Stock control in a warehouse
+- Account management in a bank
+
+This is know as a:
+- **Database Management System** (DBMS) - [[Design & implementation of a (relational) database application]]

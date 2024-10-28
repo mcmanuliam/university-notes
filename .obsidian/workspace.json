@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "114796d0a401fb6e",
+        "id": "c0e19c02197ce2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ddd8ab1543788f3",
+            "id": "1bfd52e5da6320e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
+                "file": "Year 2/Data Storage and Retrieval/units/Design & implementation of a (relational) database application.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Design & implementation of a (relational) database application"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "if statement",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 423.5047149658203
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome to Hell"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome to Hell"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md"
-              }
+                "file": "Year 2/Data Storage and Retrieval/units/Design & implementation of a (relational) database application.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Design & implementation of a (relational) database application"
+            }
+          },
+          {
+            "id": "015a676007e2f6bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -134,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,47 +170,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ddd8ab1543788f3",
+  "active": "1bfd52e5da6320e0",
   "lastOpenFiles": [
-    "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
-    "Year 2/Algorithms/ALGOS.md",
-    "Year 2/Data Science and Fundamentals/DSF.md",
-    "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
+    "Markdown Basics.md",
+    "Setup.md",
+    "Year 2/Data Storage and Retrieval/units/Design & implementation of a (relational) database application.md",
+    "Year 2/Data Storage and Retrieval/units/Course Introduction.md",
+    "Year 2/Data Storage and Retrieval/units/Issues in data & information Management.md",
+    "Year 2/Data Storage and Retrieval/units/Data modelling and ER Diagrams.md",
+    "[Design & implementation of a (relational) database application.md",
+    "Year 2/Data Storage and Retrieval/units/Querying a database.md",
+    "Year 2/Data Storage and Retrieval/units/Transactions and views.md",
+    "Year 2/Data Storage and Retrieval/units/Sets, Relations and Relational algebra.md",
     "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
-    "Year 2/Practical Algorithms/units/Searching and Sorting.md",
+    "Untitled.canvas",
+    "2024-10-28.md",
+    "Year 2/Data Storage and Retrieval/units/Beyond relational databases - NoSQL.md",
     "Year 2/Practical Algorithms/units/Graphs.md",
-    "Year 2/Practical Algorithms/units/Data Collections.md",
+    "Year 2/Data Storage and Retrieval/units",
+    "Markdown Basics 1.md",
+    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
+    "Year 2/Systems Programming/SP.md",
     "Year 2/Practical Algorithms/units/Formal Reasoning.md",
+    "Year 2/Practical Algorithms/units/Data Collections.md",
     "Year 2/Practical Algorithms/units/Course Introduction.md",
     "Year 2/Practical Algorithms/units/Analysing Algorithms.md",
-    "Year 2/Practical Algorithms/units/Counting and Probability.md",
-    "Year 2/Practical Algorithms/units/Applications of Algorithms.md",
-    "Year 2/Practical Algorithms/PA.md",
-    "Year 2/Practical Algorithms/units",
+    "Year 2/Year 2.md",
+    "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
     "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
     "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/Third Project - Shell.md",
-    "Year 2/User Interaction/UI.md",
-    "Year 2/Year 2.md",
-    "Setup.md",
-    "Year 2/Advanced Professional Software Engineering/Advanced FPSE.md",
-    "Year 2/Systems Programming/SP.md",
+    "Year 2/Practical Algorithms/units",
     "Year 2/Data Science and Fundamentals/Resources",
-    "Untitled.canvas",
-    "2024-09-29.md",
-    "Work/Platform Mania.md",
-    "Work/Rebasing.md",
     "Work/Untitled",
     "Work",
     "Year 2",
     "Year 2/Data Science and Fundamentals",
     "Year 2/Advanced Professional Software Engineering",
     "Year 2/Algorithms",
-    "Year 2/Data Storage and Retrieval",
-    "Year 2/Practical Algorithms"
+    "Year 2/Data Storage and Retrieval"
   ]
 }
