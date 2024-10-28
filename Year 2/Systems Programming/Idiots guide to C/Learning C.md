@@ -1,4 +1,4 @@
-Welcome to Systems Programming for 2nd year GAs, yeah a shambles, before you start probably best to take a look into C, it's not too hard but worth learning for this course:
+]Welcome to Systems Programming for 2nd year GAs, yeah a shambles, before you start probably best to take a look into C, it's not too hard but worth learning for this course:
 
 This guide has pretty much all the beginner knowledge you will need to get started wit c, I'll add in another page once I am a bit more experienced with the language:
 #### [[Welcome to Hell]]
@@ -33,4 +33,3 @@ While writing this up I've been doing a few projects:
 
 - [[First Project - Rock, Paper, Scissors]]
 - [[Second Project - Bank Account]]
-- [[Third Project - Shell]]

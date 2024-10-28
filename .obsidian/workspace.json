@@ -11,8 +11,12 @@
             "id": "3ddd8ab1543788f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 200
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md"
+              }
             }
           }
         ],
@@ -126,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,41 +148,42 @@
   },
   "active": "3ddd8ab1543788f3",
   "lastOpenFiles": [
-    "Year 2/Year 2.md",
-    "Setup.md",
-    "Year 2/Systems Programming/SP.md",
-    "Year 2/User Interaction/UI.md",
-    "Year 2/Data Science and Fundamentals/Resources",
     "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
-    "Year 2/Advanced Professional Software Engineering/Advanced FPSE.md",
-    "Untitled.canvas",
     "Year 2/Algorithms/ALGOS.md",
     "Year 2/Data Science and Fundamentals/DSF.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-    "2024-09-29.md",
+    "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
+    "Year 2/Practical Algorithms/units/Searching and Sorting.md",
+    "Year 2/Practical Algorithms/units/Graphs.md",
+    "Year 2/Practical Algorithms/units/Data Collections.md",
+    "Year 2/Practical Algorithms/units/Formal Reasoning.md",
+    "Year 2/Practical Algorithms/units/Course Introduction.md",
+    "Year 2/Practical Algorithms/units/Analysing Algorithms.md",
+    "Year 2/Practical Algorithms/units/Counting and Probability.md",
+    "Year 2/Practical Algorithms/units/Applications of Algorithms.md",
     "Year 2/Practical Algorithms/PA.md",
+    "Year 2/Practical Algorithms/units",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
+    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/Third Project - Shell.md",
+    "Year 2/User Interaction/UI.md",
+    "Year 2/Year 2.md",
+    "Setup.md",
+    "Year 2/Advanced Professional Software Engineering/Advanced FPSE.md",
+    "Year 2/Systems Programming/SP.md",
+    "Year 2/Data Science and Fundamentals/Resources",
+    "Untitled.canvas",
+    "2024-09-29.md",
     "Work/Platform Mania.md",
     "Work/Rebasing.md",
-    "Work/Dev Learning.md",
-    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
     "Work/Untitled",
     "Work",
     "Year 2",
-    "Year 2/Data Storage and Retrieval/DSR.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/Third Project - Shell.md",
     "Year 2/Data Science and Fundamentals",
     "Year 2/Advanced Professional Software Engineering",
     "Year 2/Algorithms",
-    "Ad.md",
     "Year 2/Data Storage and Retrieval",
-    "Year 2/Practical Algorithms",
-    "Year 2/User Interaction",
-    "2024-09-23.md",
-    "What.md",
-    "Systems Programming/Systems Programming.md",
-    "Systems Programming/Learning C.md",
-    "Systems.md",
-    "test.md"
+    "Year 2/Practical Algorithms"
   ]
 }
