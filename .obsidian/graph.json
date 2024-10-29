@@ -1,22 +1,65 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Year 2/Data Storage and Retrieval\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Year 2/Algorithms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7921746
+      }
+    },
+    {
+      "query": "path:\"Year 2/Practical Algorithms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4289460
+      }
+    },
+    {
+      "query": "path:\"Year 2/Data Science and Fundamentals\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12481289
+      }
+    },
+    {
+      "query": "path:\"Year 2/Systems Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Year 2/User Interaction\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 2.1579008589833366,
-  "close": true
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 0.858341923133559,
+  "lineSizeMultiplier": 0.951060226770726,
+  "collapse-forces": false,
+  "centerStrength": 0.24429391842144,
+  "repelStrength": 7.9031070534531,
+  "linkStrength": 0.40921808275659,
+  "linkDistance": 207,
+  "scale": 0.38844079292763495,
+  "close": false
 }

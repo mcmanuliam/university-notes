@@ -2,7 +2,7 @@ Welcome to the notes for second year of the apprenticeship, these should everyth
 
 - Semester 1
 	- Practical Algorithms [[PA|PA]]
-	- Systems Programming [[Learning C|Learning C]]
+	- Systems Programming [[SP]]
 	- Data Storage and Retrieval [[DSR|DSR]]
 - Semester 2
 	- Algorithms [[ALGOS|ALGO]]

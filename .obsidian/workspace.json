@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0e19c02197ce2c5",
+        "id": "80cd38e1374df74a",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfd52e5da6320e0",
+            "id": "d38abece9025b101",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Data Storage and Retrieval/units/Design & implementation of a (relational) database application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design & implementation of a (relational) database application"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#relationships",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5047149658203
+    "width": 436.5047149658203
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 2/Data Storage and Retrieval/units/Design & implementation of a (relational) database application.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Design & implementation of a (relational) database application"
+              "title": "Outline"
             }
           },
           {
@@ -153,6 +147,20 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "3d95b5f5b0031442",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -171,47 +179,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1bfd52e5da6320e0",
+  "active": "d38abece9025b101",
   "lastOpenFiles": [
+    "Year 2/Practical Algorithms/PA.md",
+    "Year 2/Practical Algorithms/units/1. Warming Up.md",
+    "Year 2/Data Storage and Retrieval/units/1. Issues in data & information Management.md",
+    "Year 2/Data Storage and Retrieval/units/2. Design & implementation of a (relational) database application.md",
+    "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
     "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
-    "Markdown Basics.md",
-    "Setup.md",
-    "Year 2/Data Storage and Retrieval/units/Design & implementation of a (relational) database application.md",
-    "Year 2/Data Storage and Retrieval/units/Course Introduction.md",
-    "Year 2/Data Storage and Retrieval/units/Issues in data & information Management.md",
-    "Year 2/Data Storage and Retrieval/units/Data modelling and ER Diagrams.md",
-    "[Design & implementation of a (relational) database application.md",
-    "Year 2/Data Storage and Retrieval/units/Querying a database.md",
-    "Year 2/Data Storage and Retrieval/units/Transactions and views.md",
-    "Year 2/Data Storage and Retrieval/units/Sets, Relations and Relational algebra.md",
-    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
-    "Untitled.canvas",
-    "2024-10-28.md",
-    "Year 2/Data Storage and Retrieval/units/Beyond relational databases - NoSQL.md",
-    "Year 2/Practical Algorithms/units/Graphs.md",
-    "Year 2/Data Storage and Retrieval/units",
-    "Markdown Basics 1.md",
-    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
-    "Year 2/Systems Programming/SP.md",
-    "Year 2/Practical Algorithms/units/Formal Reasoning.md",
-    "Year 2/Practical Algorithms/units/Data Collections.md",
-    "Year 2/Practical Algorithms/units/Course Introduction.md",
-    "Year 2/Practical Algorithms/units/Analysing Algorithms.md",
     "Year 2/Year 2.md",
+    "Markdown Basics.md",
+    "Year 2/Data Storage and Retrieval/slides/Data Modelling, ER Diagram's.pdf",
+    "Year 2/Practical Algorithms/slides/Algorithmic Thinking and Decomposition.pdf",
+    "Year 2/Systems Programming/SP.md",
     "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
+    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
+    "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Data Storage and Retrieval/units/Beyond relational databases - NoSQL.md",
     "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-    "Year 2/Practical Algorithms/units",
-    "Year 2/Data Science and Fundamentals/Resources",
-    "Work/Untitled",
-    "Work",
-    "Year 2",
-    "Year 2/Data Science and Fundamentals",
-    "Year 2/Advanced Professional Software Engineering",
-    "Year 2/Algorithms",
-    "Year 2/Data Storage and Retrieval"
+    "Year 2/Practical Algorithms/slides/Introduction to Algorithms.pdf",
+    "Year 2/Data Storage and Retrieval/slides/Issues in data & information Management.pdf",
+    "Year 2/Data Storage and Retrieval/slides/Design & implementation of a (relational) database application.pdf",
+    "Year 2/Data Storage and Retrieval/slides",
+    "Pasted image 20241029153127.png",
+    "Setup.md",
+    "Year 2/Practical Algorithms/units/Data Collections.md",
+    "Year 2/Practical Algorithms/units/Formal Reasoning.md",
+    "Year 2/Practical Algorithms/units/Graphs.md",
+    "Year 2/Practical Algorithms/units/Searching and Sorting.md",
+    "Pasted image 20241029113549.png",
+    "Untitled.md",
+    "Year 2/Practical Algorithms/slides/Course Organisation.pdf",
+    "Year 2/Practical Algorithms/units/Analyzing Algorithms.md",
+    "Year 2/Practical Algorithms/slides",
+    "2024-10-29.md",
+    "Year 2/Practical Algorithms/units/Course Introduction.md",
+    "Year 2/Practical Algorithms/units/Counting and Probability.md",
+    "Year 2/Data Storage and Retrieval/units/Transactions and views.md",
+    "Year 2/Data Storage and Retrieval/units/Course Introduction.md",
+    "Untitled.canvas",
+    "Year 2/Data Storage and Retrieval/units",
+    "Year 2/Practical Algorithms/units"
   ]
 }

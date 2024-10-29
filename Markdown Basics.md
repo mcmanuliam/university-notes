@@ -94,12 +94,53 @@ To link to other notes within Obsidian, use `[[Note Title]]`. You can also link 
 
 For embedding files like images or PDFs, use `![[File Name.pdf]]`.
 
+### 5. Math Blocks
+Math blocks in Markdown allow you to write mathematical equations and symbols using LaTeX syntax.
+
+To create a math block use double dollar signs `$$` on each side of the equation. 
+
+**Example:**
+
+```
+$$
+\sum_{k=1}^{n} k = \frac{n(n+1)}{2}
+$$
+```
+
+This renders as:
+$$
+sum_{k=1}^{n} k = \frac{n(n+1)}{2}
+$$
+
+#### Common Uses of Math Blocks
+- **Fractions**: `\frac{a}{b}` renders as \( \frac{a}{b} \).
+- **Summations**: `\sum_{i=1}^{n} i` renders as \( \sum_{i=1}^{n} i \).
+- **Integrals**: `\int_{a}^{b} f(x) \, dx` renders as \( \int_{a}^{b} f(x) \, dx \).
+- **Greek Letters**: `\alpha`, `\beta`, `\gamma` render as \( \alpha \), \( \beta \), \( \gamma \).
+- **Superscripts/Subscripts**: `x^2`, `x_i` render as \( x^2 \) and \( x_i \).
+
+#### Example of a Complex Math Block
+[[1. Warming Up]]
+For a quadratic formula:
+
+```
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+```
+
+This renders as:
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
 ---
 
 ## Using Mermaid for Diagrams (ER Diagrams and More)
 Obsidian supports **Mermaid** for creating diagrams like ER diagrams, flowcharts, and sequence diagrams. To use it, wrap the code in a Mermaid code block:
 
 ### ER Diagrams (Entity-Relationship Diagrams)
+[[3. Data modelling and ER Diagrams]]
 ER diagrams are useful for visualizing database schemas. Here's the format for creating one in Mermaid:
 
 ```mermaid
@@ -115,6 +156,7 @@ PRODUCT ||--o{ LINE_ITEM : includes
 - `||--|{` represents a **many-to-many** relationship.
 
 ### Flowcharts
+[[1. Warming Up]]
 To create a flowchart, use `graph TD` for a top-down layout or `graph LR` for left-to-right. Here's a simple example:
 
 ```mermaid
