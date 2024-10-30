@@ -1,6 +1,6 @@
 Slides**
-[[Introduction to Algorithms.pdf]]
-[[Course Organisation.pdf]]
+[[1. Introduction to Algorithms.pdf]]
+[[2. Course Organisation.pdf]]
 #### Defining an "Algorithm"
 A procedure for solving a (mathematical) problem in a finite number of steps that frequently involves repetition of operations.
 
@@ -114,9 +114,9 @@ You will get feedback in the following ways:
 - Office hours (by request)
 
 **Course changes from last year**
-- Project-based passement "added" (brought back)
+- Project-based passement "**added**" (brought back)
 #### Table of Contents
-[[Analyzing Algorithms]]
+[[2. Analyzing Algorithms]]
 [[Counting and Probability]]
 [[Data Collections]]
 [[Formal Reasoning]]

@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "9bce1448cb566104",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "80cd38e1374df74a",
+        "id": "0eea92e90e6d9389",
         "type": "tabs",
         "children": [
           {
-            "id": "d38abece9025b101",
+            "id": "16603511dde1a2d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Practical Algorithms/units/1. Warming Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Warming Up"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#relationships",
+                "query": "Group Work",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5047149658203
+    "width": 404.5047149658203,
+    "collapsed": true
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -134,19 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Year 2/Practical Algorithms/units/1. Warming Up.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "015a676007e2f6bf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of 1. Warming Up"
             }
           },
           {
@@ -175,56 +172,57 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "zk-prefixer:Create new unique note": false
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d38abece9025b101",
+  "active": "16603511dde1a2d9",
   "lastOpenFiles": [
-    "Year 2/Practical Algorithms/PA.md",
-    "Year 2/Practical Algorithms/units/1. Warming Up.md",
-    "Year 2/Data Storage and Retrieval/units/1. Issues in data & information Management.md",
-    "Year 2/Data Storage and Retrieval/units/2. Design & implementation of a (relational) database application.md",
-    "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
-    "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
-    "Year 2/Year 2.md",
+    "Assets/Year 2/Practical Algorithms/Warming Up/ExpectedOutput.png",
     "Markdown Basics.md",
-    "Year 2/Data Storage and Retrieval/slides/Data Modelling, ER Diagram's.pdf",
-    "Year 2/Practical Algorithms/slides/Algorithmic Thinking and Decomposition.pdf",
-    "Year 2/Systems Programming/SP.md",
-    "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
-    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
+    "Year 2/Practical Algorithms/units/1. Warming Up.md",
+    "Assets/Year 2/Practical Algorithms/Warming Up/GradeTable.png",
+    "Assets/Year 2/Practical Algorithms/Warming Up/FileFormat1.png",
+    "Assets/Year 2/Practical Algorithms/Warming Up",
+    "Assets/Year 2/Practical Algorithms",
+    "Assets/Year 2",
+    "Year 2/Year 2.md",
+    "Assets",
+    "Pasted image 20241030211641.png",
+    "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
+    "Year 2/Data Storage and Retrieval/units/2. Design & implementation of a (relational) database application.md",
+    "Year 2/Data Storage and Retrieval/units/1. Issues in data & information Management.md",
     "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Practical Algorithms/PA.md",
+    "Year 2/Practical Algorithms/slides/3. Algorithmic Thinking and Decomposition.pdf",
+    "Year 2/Data Storage and Retrieval/units/4. From ER Models to Tables.md",
+    "Year 2/Practical Algorithms/slides/1. Introduction to Algorithms.pdf",
+    "Year 2/Practical Algorithms/slides/2. Course Organisation.pdf",
+    "Setup.md",
+    "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
+    "Year 2/User Interaction/UI.md",
+    "Home.md",
+    "Year 2/Practical Algorithms/units/2. Analyzing Algorithms.md",
+    "Year 2/Practical Algorithms/units/Counting and Probability.md",
+    "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
+    "Year 2/Data Storage and Retrieval/slides/Data Modelling, ER Diagram's.pdf",
+    "Year 2/Systems Programming/SP.md",
+    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
     "Year 2/Data Storage and Retrieval/units/Beyond relational databases - NoSQL.md",
     "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-    "Year 2/Practical Algorithms/slides/Introduction to Algorithms.pdf",
     "Year 2/Data Storage and Retrieval/slides/Issues in data & information Management.pdf",
     "Year 2/Data Storage and Retrieval/slides/Design & implementation of a (relational) database application.pdf",
-    "Year 2/Data Storage and Retrieval/slides",
     "Pasted image 20241029153127.png",
-    "Setup.md",
     "Year 2/Practical Algorithms/units/Data Collections.md",
     "Year 2/Practical Algorithms/units/Formal Reasoning.md",
     "Year 2/Practical Algorithms/units/Graphs.md",
     "Year 2/Practical Algorithms/units/Searching and Sorting.md",
     "Pasted image 20241029113549.png",
-    "Untitled.md",
-    "Year 2/Practical Algorithms/slides/Course Organisation.pdf",
-    "Year 2/Practical Algorithms/units/Analyzing Algorithms.md",
-    "Year 2/Practical Algorithms/slides",
     "2024-10-29.md",
-    "Year 2/Practical Algorithms/units/Course Introduction.md",
-    "Year 2/Practical Algorithms/units/Counting and Probability.md",
-    "Year 2/Data Storage and Retrieval/units/Transactions and views.md",
-    "Year 2/Data Storage and Retrieval/units/Course Introduction.md",
-    "Untitled.canvas",
-    "Year 2/Data Storage and Retrieval/units",
-    "Year 2/Practical Algorithms/units"
+    "Untitled.canvas"
   ]
 }

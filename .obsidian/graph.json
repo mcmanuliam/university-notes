@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Year 2/Data Storage and Retrieval\"  ",
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 0.858341923133559,
   "lineSizeMultiplier": 0.951060226770726,
-  "collapse-forces": false,
-  "centerStrength": 0.24429391842144,
-  "repelStrength": 7.9031070534531,
-  "linkStrength": 0.40921808275659,
+  "collapse-forces": true,
+  "centerStrength": 0.503534089235753,
+  "repelStrength": 14.1231041083787,
+  "linkStrength": 0.710793697540863,
   "linkDistance": 207,
-  "scale": 0.38844079292763495,
+  "scale": 0.528968406451275,
   "close": false
 }
