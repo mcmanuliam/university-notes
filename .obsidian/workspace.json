@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0eea92e90e6d9389",
+        "id": "37a4962dd0f806dc",
         "type": "tabs",
         "children": [
           {
-            "id": "16603511dde1a2d9",
+            "id": "f103725bb9e1f0f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Practical Algorithms/units/1. Warming Up.md",
+                "file": "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Warming Up"
+              "title": "3. Data modelling and ER Diagrams"
             }
           }
         ]
@@ -52,11 +52,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Group Work",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5047149658203,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -140,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Practical Algorithms/units/1. Warming Up.md"
+                "file": "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Warming Up"
+              "title": "Outline of 3. Data modelling and ER Diagrams"
             }
           },
           {
@@ -161,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,52 +176,58 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16603511dde1a2d9",
+  "active": "f103725bb9e1f0f7",
   "lastOpenFiles": [
-    "Assets/Year 2/Practical Algorithms/Warming Up/ExpectedOutput.png",
+    "Todays Tasks.md",
+    "Year 2/Data Storage and Retrieval/units/4. Converting Your ER Diagram to Tables.md",
+    "Year 2/Data Storage and Retrieval/units/1. Issues in data & information Management.md",
+    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
     "Markdown Basics.md",
-    "Year 2/Practical Algorithms/units/1. Warming Up.md",
-    "Assets/Year 2/Practical Algorithms/Warming Up/GradeTable.png",
-    "Assets/Year 2/Practical Algorithms/Warming Up/FileFormat1.png",
-    "Assets/Year 2/Practical Algorithms/Warming Up",
-    "Assets/Year 2/Practical Algorithms",
-    "Assets/Year 2",
+    "Setup.md",
+    "README.md",
     "Year 2/Year 2.md",
-    "Assets",
-    "Pasted image 20241030211641.png",
+    "tasks-dashboard.js",
+    "tasks-dashboard.js.txt",
+    "New Text Document.txt",
     "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
     "Year 2/Data Storage and Retrieval/units/2. Design & implementation of a (relational) database application.md",
-    "Year 2/Data Storage and Retrieval/units/1. Issues in data & information Management.md",
-    "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Practical Algorithms/units/1. Warming Up.md",
+    "Year 2/Practical Algorithms/units/2. Analyzing Algorithms.md",
+    "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
+    "Year 2/Practical Algorithms/slides/4. Algorithm Analysis.pdf",
+    "Year 2/Data Storage and Retrieval/units/Querying a database.md",
+    "Year 2/Practical Algorithms/keynotes/2. Analyzing Algorithms - Rules for Comparing.md",
+    "Assets/image.png",
+    "Assets/image7.png",
+    "Personal",
+    "Year 2/Data Storage and Retrieval/slides/1. Issues in data & information Management.pdf",
     "Year 2/Practical Algorithms/PA.md",
-    "Year 2/Practical Algorithms/slides/3. Algorithmic Thinking and Decomposition.pdf",
-    "Year 2/Data Storage and Retrieval/units/4. From ER Models to Tables.md",
-    "Year 2/Practical Algorithms/slides/1. Introduction to Algorithms.pdf",
-    "Year 2/Practical Algorithms/slides/2. Course Organisation.pdf",
-    "Setup.md",
+    "Assets/image6.png",
+    "Assets/image5.png",
+    "Year 2/Data Storage and Retrieval/slides/4. From ER Models to Tables.pdf",
+    "Year 2/Data Storage and Retrieval/slides/2. Design & implementation of a (relational) database application.pdf",
+    "Year 2/Data Storage and Retrieval/slides/3 .Data Modelling, ER Diagram's.pdf",
+    "Personal/PubGolf.md",
+    "Assets/image14.png",
+    "Assets/image2.png",
+    "Assets/image3.png",
+    "Assets/image4.png",
+    "Assets/image13.png",
+    "Assets/image12.png",
+    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
     "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
+    "Year 2/Data Storage and Retrieval/units/Transactions and views.md",
+    "Year 2/Practical Algorithms/keynotes",
+    "Year 2/Practical Algorithms/units/Counting and Probability.md",
+    "Year 2/Data Storage and Retrieval/DSR.md",
+    "Year 2/Data Storage and Retrieval/units/4. From ER Models to Tables.md",
     "Year 2/User Interaction/UI.md",
     "Home.md",
-    "Year 2/Practical Algorithms/units/2. Analyzing Algorithms.md",
-    "Year 2/Practical Algorithms/units/Counting and Probability.md",
     "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
-    "Year 2/Data Storage and Retrieval/slides/Data Modelling, ER Diagram's.pdf",
-    "Year 2/Systems Programming/SP.md",
-    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
-    "Year 2/Data Storage and Retrieval/units/Beyond relational databases - NoSQL.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/First Project - Rock, Paper, Scissors.md",
-    "Year 2/Data Storage and Retrieval/slides/Issues in data & information Management.pdf",
-    "Year 2/Data Storage and Retrieval/slides/Design & implementation of a (relational) database application.pdf",
-    "Pasted image 20241029153127.png",
-    "Year 2/Practical Algorithms/units/Data Collections.md",
-    "Year 2/Practical Algorithms/units/Formal Reasoning.md",
-    "Year 2/Practical Algorithms/units/Graphs.md",
-    "Year 2/Practical Algorithms/units/Searching and Sorting.md",
-    "Pasted image 20241029113549.png",
-    "2024-10-29.md",
     "Untitled.canvas"
   ]
 }

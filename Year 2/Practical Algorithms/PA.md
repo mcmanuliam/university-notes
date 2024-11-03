@@ -1,4 +1,4 @@
-Slides**
+**Slides**
 [[1. Introduction to Algorithms.pdf]]
 [[2. Course Organisation.pdf]]
 #### Defining an "Algorithm"

@@ -1,8 +1,8 @@
 This was more as an attempt to work with data manipulation and how it would work keeping globals in the main which I will edit in the helper functions:
 
-- [x] See current Balance.
-- [x] Make a Withdrawal.
-- [x] Make a Deposit.
+- See current Balance.
+- Make a Withdrawal.
+- Make a Deposit.
 
 In this app, the user will be asked to enter the name and promoted to select an action, from this we then run the required action.
 

@@ -1,0 +1,1 @@
+{"path":"Pasted image 20241101134951.png","text":"Relations, Relationships MovielTitle, Type) Title is a Foreign key ’ * Release(Title, Year, Length) + Stars(Name, Address) * Studio(Name, Address) ™ G [ ] Cowe D 23","libVersion":"0.3.2","langs":"eng"}
