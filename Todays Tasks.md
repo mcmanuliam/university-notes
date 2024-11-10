@@ -23,10 +23,13 @@ Not urgent but the tasks in this list will need complete soon.
 not done
 due after today
 due before in one week
+short mode
 hide edit button
+hide backlink
 ```
 
 #### All Tasks
 ```tasks
-shortmode
+short mode
+hide edit button
 ```

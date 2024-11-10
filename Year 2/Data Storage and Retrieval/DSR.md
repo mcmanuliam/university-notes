@@ -28,8 +28,11 @@ Garcia-Molina, Ullman, Widom. Pearson Education, 2013
 [[1. Issues in data & information Management]]
 [[2. Design & implementation of a (relational) database application]]
 [[3. Data modelling and ER Diagrams]]
+[[4. Converting Your ER Diagram to Tables]]
+[[5. Relational Data Model -  Enforcing Integrity]]
+[[6. Sets, Relations and Relational algebra]]
+
 [[Beyond exact queries - Vector Databases]]
 [[Beyond relational databases - NoSQL]]
 [[Querying a database]]
-[[Sets, Relations and Relational algebra]]
 [[Transactions and views]]

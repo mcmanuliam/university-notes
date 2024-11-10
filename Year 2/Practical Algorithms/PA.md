@@ -116,11 +116,14 @@ You will get feedback in the following ways:
 **Course changes from last year**
 - Project-based passement "**added**" (brought back)
 #### Table of Contents
+[[1. Warming Up]]
 [[2. Analyzing Algorithms]]
+[[3. Sets]]
+[[4. Functions]]
+
 [[Counting and Probability]]
 [[Data Collections]]
 [[Formal Reasoning]]
 [[Graphs]]
 [[Searching and Sorting]]
 [[Sequences, Induction, Reccurence]]
-[[1. Warming Up]]

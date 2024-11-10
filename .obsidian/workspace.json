@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "37a4962dd0f806dc",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f103725bb9e1f0f7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/DSR-Assessed-Exercise-2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3. Data modelling and ER Diagrams"
+              "icon": "lucide-file-text",
+              "title": "DSR-Assessed-Exercise-2"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "infin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5047149658203
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -138,11 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 3. Data modelling and ER Diagrams"
+              "title": "Outline"
             }
           },
           {
@@ -160,11 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 446.5,
+    "width": 696,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,54 +176,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f103725bb9e1f0f7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Assets/DSR-Assessed-Exercise-1.pdf",
+    "Assets/DSR-Assessed-Exercise-2.pdf",
+    "Year 2/Data Storage and Retrieval/units/6. Sets, Relations and Relational algebra.md",
     "Todays Tasks.md",
-    "Year 2/Data Storage and Retrieval/units/4. Converting Your ER Diagram to Tables.md",
-    "Year 2/Data Storage and Retrieval/units/1. Issues in data & information Management.md",
-    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
-    "Markdown Basics.md",
-    "Setup.md",
     "README.md",
+    "Year 2/Practical Algorithms/exercise/Assessed Exercise 1/todo.md",
     "Year 2/Year 2.md",
-    "tasks-dashboard.js",
-    "tasks-dashboard.js.txt",
-    "New Text Document.txt",
-    "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
-    "Year 2/Data Storage and Retrieval/units/2. Design & implementation of a (relational) database application.md",
-    "Year 2/Practical Algorithms/units/1. Warming Up.md",
     "Year 2/Practical Algorithms/units/2. Analyzing Algorithms.md",
-    "Year 2/Systems Programming/Idiots guide to C/Projects/Second Project - Bank Account.md",
-    "Year 2/Practical Algorithms/slides/4. Algorithm Analysis.pdf",
-    "Year 2/Data Storage and Retrieval/units/Querying a database.md",
-    "Year 2/Practical Algorithms/keynotes/2. Analyzing Algorithms - Rules for Comparing.md",
-    "Assets/image.png",
-    "Assets/image7.png",
-    "Personal",
-    "Year 2/Data Storage and Retrieval/slides/1. Issues in data & information Management.pdf",
-    "Year 2/Practical Algorithms/PA.md",
-    "Assets/image6.png",
-    "Assets/image5.png",
-    "Year 2/Data Storage and Retrieval/slides/4. From ER Models to Tables.pdf",
-    "Year 2/Data Storage and Retrieval/slides/2. Design & implementation of a (relational) database application.pdf",
-    "Year 2/Data Storage and Retrieval/slides/3 .Data Modelling, ER Diagram's.pdf",
-    "Personal/PubGolf.md",
-    "Assets/image14.png",
-    "Assets/image2.png",
-    "Assets/image3.png",
-    "Assets/image4.png",
-    "Assets/image13.png",
-    "Assets/image12.png",
-    "Year 2/Systems Programming/Idiots guide to C/Welcome to Hell.md",
-    "Year 2/Systems Programming/Idiots guide to C/Learning C.md",
-    "Year 2/Data Storage and Retrieval/units/Transactions and views.md",
-    "Year 2/Practical Algorithms/keynotes",
+    "Year 2/Practical Algorithms/units/1. Warming Up.md",
+    "Assets/images/Pasted image 20241106104112.png",
+    "Assets/images/Pasted image 20241105152208.png",
+    "Assets/images/Pasted image 20241105144100.png",
+    "Year 2/Practical Algorithms/slides/6. Functions.pdf",
+    "Assets/images/Pasted image 20241105143239.png",
+    "Assets/images/Pasted image 20241105143216.png",
+    "Year 2/Practical Algorithms/units/4. Functions.md",
+    "Year 2/Practical Algorithms/units/3. Sets.md",
     "Year 2/Practical Algorithms/units/Counting and Probability.md",
+    "Year 2/Practical Algorithms/exercise/Assessed Exercise 1/REPORT.md",
+    "Year 2/Data Storage and Retrieval/exercise/Coursework Exercise 2.md",
+    "Year 2/Data Storage and Retrieval/exercise/ERD-model.pdf",
+    "Year 2/Data Storage and Retrieval/units/4. Converting Your ER Diagram to Tables.md",
+    "Year 2/Data Storage and Retrieval/units/5. Relational Data Model -  Enforcing Integrity.md",
     "Year 2/Data Storage and Retrieval/DSR.md",
-    "Year 2/Data Storage and Retrieval/units/4. From ER Models to Tables.md",
-    "Year 2/User Interaction/UI.md",
-    "Home.md",
-    "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
+    "Year 2/Data Storage and Retrieval/exercise/Assessed Exercise 1",
+    "Year 2/Data Storage and Retrieval/exercise",
+    "Assets/images/Pasted image 20241106114328.png",
+    "Assets/images/Pasted image 20241106110950.png",
+    "Year 2/Key Notes/Set Notation.md",
+    "Year 2/Key Notes/Set Identities & Equivlences.md",
+    "Assets/images/Pasted image 20241106110027.png",
+    "Assets/images/Pasted image 20241106104704.png",
+    "Assets/images/Pasted image 20241106104457.png",
+    "Year 2/Practical Algorithms/PA.md",
+    "Year 2/Practical Algorithms/units/Data Collections.md",
+    "Year 2/Practical Algorithms/units/Searching and Sorting.md",
+    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
+    "Year 2/Practical Algorithms/units/Graphs.md",
+    "Year 2/Practical Algorithms/units/Formal Reasoning.md",
+    "Year 2/Practical Algorithms/exercise/Assessed Exercise 1",
+    "Year 2/Data Storage and Retrieval/slides/6. Sets and Set Theory.pdf",
+    "Year 2/Data Storage and Retrieval/units/2. Design & implementation of a (relational) database application.md",
+    "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
+    "Year 2/Practical Algorithms/slides/5. Sets.pdf",
+    "Assets/images",
     "Untitled.canvas"
   ]
 }
