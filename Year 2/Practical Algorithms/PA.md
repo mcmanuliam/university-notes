@@ -120,10 +120,6 @@ You will get feedback in the following ways:
 [[2. Analyzing Algorithms]]
 [[3. Sets]]
 [[4. Functions]]
+[[5. Dynamic vs Static]]
+[[6. Trees]]
 
-[[Counting and Probability]]
-[[Data Collections]]
-[[Formal Reasoning]]
-[[Graphs]]
-[[Searching and Sorting]]
-[[Sequences, Induction, Reccurence]]

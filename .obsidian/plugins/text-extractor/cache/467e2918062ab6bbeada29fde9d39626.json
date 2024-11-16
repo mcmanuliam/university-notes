@@ -1,0 +1,1 @@
+{"path":"Pasted image 20241114150928.png","text":"SELECT Student.id, AVG(Enrollment.exam_mark) as avg_exam mark’, AVG(Enrollment.practical_mark) as 'avg practical_mark’ FROM Student, Enrollment WHERE Enrollment.student_id = Student.id GROUP BY Student.id s (IR","libVersion":"0.3.2","langs":"eng"}

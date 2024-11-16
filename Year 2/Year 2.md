@@ -33,5 +33,4 @@ Guess who's back bitches.
 
 - **Extra Resources**
 	- [[Markdown Basics]]
-	- [[Setup]]
 

@@ -1,0 +1,1 @@
+{"path":"Pasted image 20241114150828.png","text":"SELECT “job_title’, COUNT(*) as \"count® FROM Staff GROUP BY “job_title’ el - job_titie count : a 2 professor 3 3 seniorlecturer 1 4 researchstudent 1 5 researchassistant 1","libVersion":"0.3.2","langs":"eng"}

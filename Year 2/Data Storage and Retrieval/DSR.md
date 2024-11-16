@@ -31,8 +31,4 @@ Garcia-Molina, Ullman, Widom. Pearson Education, 2013
 [[4. Converting Your ER Diagram to Tables]]
 [[5. Relational Data Model -  Enforcing Integrity]]
 [[6. Sets, Relations and Relational algebra]]
-
-[[Beyond exact queries - Vector Databases]]
-[[Beyond relational databases - NoSQL]]
-[[Querying a database]]
-[[Transactions and views]]
+[[7. Relations and Relational Algebra]]
