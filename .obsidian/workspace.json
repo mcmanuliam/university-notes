@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fdbff891a9f74b5f",
+        "id": "379a4b29c0ed11d8",
         "type": "tabs",
         "children": [
           {
-            "id": "b48f967fc907073c",
+            "id": "3bbf2c719a18f0d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Year 2.md",
-                "mode": "preview",
+                "file": "Year 2/Practical Algorithms/Units/11. Recursion.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Year 2"
+              "title": "11. Recursion"
+            }
+          }
+        ]
+      },
+      {
+        "id": "81d0acaec242b21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48263dabe4b42d61",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Year 2/Practical Algorithms/Slides/13. Recursion.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "13. Recursion"
             }
           }
         ]
@@ -178,9 +196,74 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b48f967fc907073c",
+  "floating": {
+    "id": "c6e295302a606760",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2572dfe0d0a5cb45",
+        "type": "window",
+        "children": [
+          {
+            "id": "dd708f32c9ed8b31",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee620184a51ee3cd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 861,
+        "y": 288,
+        "width": 915,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ee620184a51ee3cd",
   "lastOpenFiles": [
+    "Year 2/Practical Algorithms/Slides/13. Recursion.pdf",
+    "Year 2/Practical Algorithms/Units/11. Recursion.md",
+    "Year 2/Practical Algorithms/Slides/12. Proof by Induction.pdf",
+    "Year 2/Practical Algorithms/Exercises/Assessed Exercise 1/Temp Report.md",
+    "Year 2/Practical Algorithms/Exercises/Assessed Exercise 1/Report.md",
+    "Markdown Basics.md",
     "Year 2/Year 2.md",
+    "Personal/London Winter Break.md",
+    "Assets/images/Pasted image 20241119144047.png",
+    "Personal",
+    "Assets/images/Pasted image 20241119151812.png",
+    "Year 2/Practical Algorithms/slides/11. Sequences.pdf",
+    "Todays Tasks.md",
+    "Year 2/Data Storage and Retrieval/units/3. Data modelling and ER Diagrams.md",
+    "Year 2/Practical Algorithms/units/4. Functions.md",
+    "Year 2/Practical Algorithms/units/9. Sequences and Recurrence Relations.md",
+    "Year 2/Data Storage and Retrieval/units/6. Sets, Relations and Relational algebra.md",
+    "Year 2/Key Notes/Set Notation.md",
+    "Year 2/Key Notes/Set Identities & Equivlences.md",
+    "Year 2/Practical Algorithms/keynotes/2. Analyzing Algorithms - Rules for Comparing.md",
+    "Year 2/Practical Algorithms/units/5. Dynamic vs Static.md",
+    "Year 2/Practical Algorithms/units/7. Abstract Data Types.md",
+    "Year 2/Practical Algorithms/units/8. Hash Tables.md",
+    "Year 2/Practical Algorithms/units/2. Analyzing Algorithms.md",
+    "Year 2/Practical Algorithms/units/6. Trees.md",
+    "Year 2/Practical Algorithms/units/3. Sets.md",
+    "Year 2/Data Storage and Retrieval/slides/5. Relational Data Model - Enforcing Integrity.pdf",
+    "Assets/Geometric Progression.md",
+    "Assets/Geometric Progression.xlsx",
+    "Assets/arith_geometric_progressions.xlsx",
+    "Year 2/Practical Algorithms/slides/12. Proof by Induction.pdf",
     "Assets/images/Pasted image 20241114193739.png",
     "Assets/images/Pasted image 20241115103528.png",
     "Year 2/Data Storage and Retrieval/exercise/Report.md",
@@ -189,42 +272,12 @@
     "Year 2/Data Storage and Retrieval/slides/8. Transactions and Views.pdf",
     "Year 2/Data Storage and Retrieval/slides/Untitled.md",
     "Year 2/Practical Algorithms/slides/10. Hashmaps.pdf",
-    "Year 2/Practical Algorithms/units/8. Hash Tables.md",
     "Assets/images/Pasted image 20241115103529.png",
-    "Year 2/Practical Algorithms/units/7. Abstract Data Types.md",
-    "Year 2/Practical Algorithms/slides/9. Abstract Data Types.pdf",
-    "Year 2/Practical Algorithms/slides/8. Linked List.pdf",
-    "Untitled.md",
-    "Year 2/Data Storage and Retrieval/exercise/ERD-model.pdf",
-    "Year 2/Key Notes/Set Identities & Equivlences.md",
     "Assets/images/Pasted image 20241114150603.png",
     "Assets/images/Pasted image 20241114152123.png",
-    "Year 2/Data Storage and Retrieval/slides/7. Relational Algebra.pdf",
-    "Year 2/Data Storage and Retrieval/slides/6. Sets and Set Theory.pdf",
-    "Year 2/Data Storage and Retrieval/units/7. Relations and Relational Algebra.md",
-    "Year 2/Key Notes/Set Notation.md",
-    "Year 2/Data Storage and Retrieval/slides/5. Relational Data Model - Enforcing Integrity.pdf",
     "Assets/images/Pasted image 20241114152023.png",
     "Assets/images/Pasted image 20241114151959.png",
     "Assets/images/Pasted image 20241114151022.png",
-    "Assets/images/Pasted image 20241114150952.png",
-    "Assets/images/Pasted image 20241114150928.png",
-    "Year 2/Data Storage and Retrieval/units/5. Relational Data Model -  Enforcing Integrity.md",
-    "Year 2/Practical Algorithms/exercise/Assessed Exercise 1/todo.md",
-    "Year 2/Practical Algorithms/exercise/Assessed Exercise 1/REPORT.md",
-    "Assets/DSR-Assessed-Exercise-1.pdf",
-    "Year 2/Practical Algorithms/PA.md",
-    "Setup.md",
-    "Year 2/Practical Algorithms/units/6. Trees.md",
-    "Year 2/Practical Algorithms/units/5. Dynamic vs Static.md",
-    "Year 2/Data Storage and Retrieval/units/6. Sets, Relations and Relational algebra.md",
-    "Year 2/Data Storage and Retrieval/DSR.md",
-    "Year 2/Data Storage and Retrieval/units/Beyond exact queries - Vector Databases.md",
-    "Year 2/Practical Algorithms/units/Formal Reasoning.md",
-    "Year 2/Practical Algorithms/units/Sequences, Induction, Reccurence.md",
-    "Year 2/Practical Algorithms/units/Counting and Probability.md",
-    "Year 2/Practical Algorithms/units/Graphs.md",
-    "Assets/DSR-Assessed-Exercise-2.pdf",
     "Untitled.canvas"
   ]
 }

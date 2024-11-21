@@ -115,11 +115,25 @@ You will get feedback in the following ways:
 
 **Course changes from last year**
 - Project-based passement "**added**" (brought back)
-#### Table of Contents
+
+### Table of Contents
+
+#### Units
 [[1. Warming Up]]
 [[2. Analyzing Algorithms]]
 [[3. Sets]]
 [[4. Functions]]
 [[5. Dynamic vs Static]]
 [[6. Trees]]
-
+[[7. Abstract Data Types]]
+[[8. Hash Tables]]
+[[9. Sequences and Recurrence Relations]]
+[[10. Proof by Induction]]
+[[11. Recursion]]
+### Exercises
+[[Assessed Exercise 1]]
+#### Key Notes
+[[Reminder on Factorising]]
+[[Set Identities & Equivlences]]
+[[Set Notation]]
+[[2. Analyzing Algorithms - Rules for Comparing]]

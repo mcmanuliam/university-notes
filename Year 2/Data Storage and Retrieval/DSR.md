@@ -24,7 +24,9 @@ Garcia-Molina, Ullman, Widom. Pearson Education, 2013
 - 3 copies in the library
 - Available to buy online also (this is not a requirement)
 
-#### Table of Contents
+### Table of Contents
+
+#### Units
 [[1. Issues in data & information Management]]
 [[2. Design & implementation of a (relational) database application]]
 [[3. Data modelling and ER Diagrams]]
@@ -32,3 +34,15 @@ Garcia-Molina, Ullman, Widom. Pearson Education, 2013
 [[5. Relational Data Model -  Enforcing Integrity]]
 [[6. Sets, Relations and Relational algebra]]
 [[7. Relations and Relational Algebra]]
+[[8. SQL]]
+[[9. Beyond the Relational Model (No SQL)]]
+[[10. Transactions and Views]]
+[[11. Vector Database (More AI buzzwords)]]
+#### Exercises
+[[Assessed Exercise 2]]
+#### Tests
+[[Practice Exam Questions]]
+[[Class Quiz 2]]
+#### Key Notes
+[[Set Identities & Equivlences]]
+[[Set Notation]]
