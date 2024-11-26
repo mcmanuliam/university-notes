@@ -6,7 +6,3 @@ Welcome to the hub for all things learning in the second year of the apprentices
 	- Practical Algorithms - [[PA Overview|PA Overview]] 
 	- Systems Programming - [[SP Overview]] 
 	- Data Storage and Retrieval - [[DSR Overview|DSR Overview]]
-
-- **Extra Resources**
-	- [[Markdown Basics]]
-

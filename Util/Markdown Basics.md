@@ -120,7 +120,6 @@ $$
 - **Superscripts/Subscripts**: `x^2`, `x_i` render as \( x^2 \) and \( x_i \).
 
 #### Example of a Complex Math Block
-[[1. Writing Algorithms to solve problems]]
 For a quadratic formula:
 
 ```
@@ -140,7 +139,6 @@ $$
 Obsidian supports **Mermaid** for creating diagrams like ER diagrams, flowcharts, and sequence diagrams. To use it, wrap the code in a Mermaid code block:
 
 ### ER Diagrams (Entity-Relationship Diagrams)
-[[3. Data modelling and ER Diagrams]]
 ER diagrams are useful for visualizing database schemas. Here's the format for creating one in Mermaid:
 
 ```mermaid
