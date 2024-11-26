@@ -1,16 +1,23 @@
-Treat this as a `README.md` of sorts, how you can edit this and push to the remote. After cloning the repo, open it with Obsidian. If you're new to Obsidian, you can download it from [here](https://obsidian.md/).
+Welcome to the Notebase! This repo contains a collection of notes from the **Apprenticeship**, a few **Personal Plans and Notes** and fuck ton of **Waffle**, structured and optimized for use with [Obsidian](https://obsidian.md/).
+# Getting Started
+To set up and use this notebase, follow these steps:
+## 1. Clone the Repository
 
-```
-# To get the notebase clone from this repo.
+Clone the repository to your local machine:
+
+```bash
 git clone https://github.com/mcmanuliam/notes.git
 ```
+## 2. Install Obsidian
 
-#### Required Plugins
-1. **Git**: For version control.
-2. **Icons**: Add visual flair to the notes.
-3. **Linter**: Ensures consistent styling across notes.
-4. **Code Emitter**: Used for running code in notes, similar to jyupiter.
-5. **Advanced Tables**: Fixing dodgy markdown tables
-6. **Homepage**: Used to create a homepage linking all notes together.
-7. **Tasks**: Used to track different tasks and exams.
-8. **Omnisearch, Text Extactor**: Both used for searching PDFs.
+If you don't already have Obsidian installed, you can download it from the official website:
+
+[Download Obsidian](https://obsidian.md/)
+
+## 3. Open the Notebase in Obsidian
+
+1. Open Obsidian.
+2. Click on **Open Folder as Vault**.
+3. Navigate to the directory where you cloned this repository and select it.
+
+That's it! You now have full access to this notebase in Obsidian.
