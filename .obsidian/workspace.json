@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "975c6fc35b8f8299",
+        "id": "39120bfd2bf8552b",
         "type": "tabs",
         "children": [
           {
-            "id": "ed28e3174deb43b0",
+            "id": "479533b56ef710c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Assets/images/Pasted image 20241209143848.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241209143848"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef63926729f66050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06094e8d9f8b7216",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Concurrent Systems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Concurrent Systems"
             }
           }
         ]
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown",
+                "query": "proof by",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5047149658203
+    "width": 312.5047149658203
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -135,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Practical Algorithms/Units/12. Searching and Sorting.md"
+                "file": "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Searching and Sorting"
+              "title": "Outline of 7.4 Probability"
             }
           },
           {
@@ -154,75 +174,85 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "33d0712a585969ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 696,
+    "width": 370.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "publish:Publish changes...": true,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "ed28e3174deb43b0",
+  "active": "00a6dc9b5010adae",
   "lastOpenFiles": [
-    "Software Engineering/Year 1/Foundations of Professional Software Engineering/Units/Week 1/Git(Lab).md",
-    "Util/Todays Tasks.md",
+    "Assets/images/Pasted image 20241209143733.png",
+    "Assets/images/Pasted image 20241209100615.png",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/Concurrent Systems.md",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Concurrent Systems.pdf",
+    "Assets/images/Pasted image 20241209143848.png",
+    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 2.md",
+    "Assets/images/Pasted image 20241209141714.png",
+    "Assets/images/Pasted image 20241209141641.png",
+    "Assets/images/Pasted image 20241209141552.png",
+    "Assets/images/Pasted image 20241209141516.png",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Concurrent Systems Programming/SPGA_2_1 (1).pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting/Probability.pdf",
+    "Assets/images/Pasted image 20241209105402.png",
+    "Assets/images/Pasted image 20241209104921.png",
+    "Assets/images/Pasted image 20241209104416.png",
+    "Software Engineering/Year 2/Key Notes/Set Identities & Equivalences.md",
+    "Software Engineering/Year 2/Key Notes/Set Notation.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/Untitled.md",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting/Counting.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting/Permutations.pdf",
+    "Software Engineering/Year 2/Systems Programming/Slides/1. Learning C/Basics of Systems Programming.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming",
+    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 1.md",
+    "Software Engineering/Year 2/Systems Programming/Slides/1. Learning C",
+    "Untitled.md",
+    "Personal/London Winter Break.md",
+    "Software Engineering/Year 2/Systems Programming/SP Overview.md",
+    "Software Engineering/Year 2/Systems Programming/Pop Quiz Questions.md",
+    "Software Engineering/Year 2/Practical Algorithms/Exercises/Assessed Exercise 2/Assessed Exercise 2. Report.md",
     "Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.3 Induction.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1. Introduction.md",
-    "Software Engineering/Year 1/Year 1 Overview.md",
-    "Software Engineering/Year 1/Foundations of Professional Software Engineering/FPSE Overview.md",
-    "Software Engineering/Year 1/Web Application Systems/WAS Overview.md",
-    "Software Engineering/Year 1/How to Learn a New Language/HTLANL Overview.md",
-    "Assets/images/structure.png",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 7/Enums.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 7/File IO.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 7/Exceptions.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 7",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 6/Interfaces - OOP.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 6/Abstraction - OOP.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 6",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 5/Pillars - OOP.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 5/Class Concepts - OOP.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 5/Polymorphism - OOP.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 5",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 3/ArrayLists - Data Structures.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 3/Dictionaries - Data Structures.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 3/Arrays - Data Structures.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 3/Files.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 3",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 2/Lists - Data Structures.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 2/Scope.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 2",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 1/Types.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 1/Sub-Programs.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 1/Control.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 1/Iteration.md",
-    "Software Engineering/Year 1/How to Learn a New Language/Week 1",
-    "Software Engineering/Year 1/How to Learn a New Language",
-    "Software Engineering/Year 1/Web Application Systems/Units",
-    "Software Engineering/Year 1/Foundations of Professional Software Engineering/Units",
-    "Software Engineering/Year 1/Foundations of Professional Software Engineering/Units/Week 8",
-    "Assets/images/Computer Systems Abstraction.png",
-    "Assets/images/Usage.png",
-    "Assets/images/Manufacturing.png",
-    "Assets/images/Levels of Abstraction Concept Maps.png",
-    "Assets/images/Network Architecture.png",
-    "Assets/images/Thin.png",
-    "Assets/images/Single.png",
-    "Assets/images/Fat.png",
-    "Assets/images/Cardinalities.png",
-    "Untitled.canvas"
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.2 Permutations.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.1 Counting.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.3 Combinations.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.8 Sanitizer.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.7 Bugs.md",
+    "Untitled.canvas",
+    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.8 Abstract Data Types.md",
+    "Software Engineering/Year 2/Practical Algorithms/Exercises/Assessed Exercise 2/Question 2. Binary Search Tree.md",
+    "Software Engineering/Year 2/Practical Algorithms/PA Overview.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.6 Input and Output.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.7 Trees.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.5 Dynamic Memory Allocation.md"
   ]
 }

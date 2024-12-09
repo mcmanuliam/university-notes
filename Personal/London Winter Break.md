@@ -25,14 +25,53 @@ Airline code (PNR): K8H9SVF
 
 ## 13 Dec
 
+- **Travel to London** 
+	- **Location**: Luton - Canary Wharf 
+	- **Booking Status** - **CONFIRMED**
+	- **Runtime**: 14.05 -> 16:00
+
+- **Food at Market hall**
+	- **Location**: Canary Wharf 
+	- **Booking Status** - **NO BOOKING**
+	- **Runtime**: 16.00 -> 18:00
+
+- **Hopefully Cinema to see Wicked** (Not available to book but planning on booking later)
+	- **Location**: Canary Wharf 
+	- **Booking Status** - **TO BOOK**
+	- **Runtime**: ??.?? -> ??:??
 ## 14 Dec
 
+- **Camden Markets**
+	- **Location**: Camden
+	- **Booking Status** - **NO BOOKING**
+	- **Runtime**: 12:00 to 15:00
+
+- **Food (Near Hyde Park)**
+	- **Location**: Camden
+	- **Runtime**: 16:30 to 18:00
+
+- **Winter Wonderland**
+	- **Location**: Hyde Park
+	- **Booking Status** - **CONFIRMED**
+	- **Runtime**: 18:00 to 19:00
+	
+- **Cirque Berserk: Thunderbolt**
+	- **Location**: Hyde Park
+	- **Booking Status** - **CONFIRMED**
+	- **Runtime**: 19:00 to 20:00
 ## 15 Dec
 
-- **Stranger Things in Theater**
-	- **Location**: Phoenix Theater, Charring Cross
-	- **Runtime**: 15:00 to 17:00
+- **Stranger Things in Theater** (Booked)
+	- **Location**: Charring Cross
+	- **Booking Status** - **CONFIRMED**
+	- **Runtime**: 15:00 to 16:30
 ## 16 Dec
+
+- **Travel back** 
+	- **Location**: Canary Wharf - Luton
+	- **Booking Status** - **CONFIRMED**
+	- **Runtime**: 15:30 to 17:00
+# Ideas
 
 - **Sky Garden** (Optional)
 	- Visit the **Sky Garden** at top of Walkie Talkie (book free tickets in advance).
@@ -56,3 +95,5 @@ Airline code (PNR): K8H9SVF
 	- Game bar in Canary Wharf
 
 - **[Market Halls](https://markethalls.co.uk/)**
+
+- [**Jacuzzi**](https://maps.app.goo.gl/hyCiS2B1vHvmKvQB8)

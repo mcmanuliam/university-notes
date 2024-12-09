@@ -39,10 +39,7 @@ Garcia-Molina, Ullman, Widom. Pearson Education, 2013
 [[10. Transactions and Views]]
 [[11. Vector Database (More AI buzzwords)]]
 #### Exercises
-[[Assessed Exercise 2]]
+[[Software Engineering/Year 2/Data Storage and Retrieval/Exercises/Assessed Exercise 2]]
 #### Tests
 [[Practice Exam Questions]]
 [[Class Quiz 2]]
-#### Key Notes
-[[Set Identities & Equivalences]]
-[[Set Notation]]

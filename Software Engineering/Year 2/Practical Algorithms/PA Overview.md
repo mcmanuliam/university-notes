@@ -119,16 +119,39 @@ You will get feedback in the following ways:
 # Table of Contents
 
 ## Units
+
+### 1. Introduction to Algorithms
 - [[1. Writing Algorithms to solve problems]]
+
+### 2. Algorithm Analysis
 - [[2. Big-O Notation]]
-- [[3.0 Data Collections]]
-- [[4.0 Sequences, Induction and Recursion]]
-- [[5.0 Searching and Sorting]]
+
+### 3. Data Collections
+- [[3.3 Sets]]
+- [[3.4 Functions and Relations]]
+- [[3.5 The Computing Perspective]]
+- [[3.6 Dynamic vs Static]]
+- [[3.7 Trees]]
+- [[3.8 Abstract Data Types]]
+- [[3.9 Hash Tables]]
+### 4. Sequences, Induction and Recursion
+- [[4.2 Sequences, Recurrence Relations and Summations]]
+- [[4.3 Induction]]
+- [[4.4 Recursive Algorithms]]
+
+### 5. Searching and Sorting
+- [[5.1 Why search and sort]]
+- [[5.2 Searching]]
+- [[5.3 Sorting]]
+
+### [[6. Graphs]]
+
+## 7. Counting
+- [[7.1 Counting]]
+- [[7.2 Permutations]]
+- [[7.3 Combinations]]
+- [[7.4 Probability]]
 ## Exercises
-- [[Assessed Exercise 1. Write Up]]
+- [[Assessed Exercise 1. Brief]]
 ## Key Notes
 - [[2.2 Analyzing Algorithms - Rules for Comparing]]
-## Relevant Global
-- [[Reminder on Factorising]]
-- [[Set Identities & Equivalences]]
-- [[Set Notation]]
