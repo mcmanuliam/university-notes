@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "39120bfd2bf8552b",
+        "id": "d65dece45128bbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "479533b56ef710c7",
+            "id": "1cc4bb5b1d7dabdc",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/images/Pasted image 20241209143848.png"
+                "file": "Assets/images/Pasted image 20241217141820.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20241209143848"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ef63926729f66050",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06094e8d9f8b7216",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Concurrent Systems.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Concurrent Systems"
+              "title": "Pasted image 20241217141820"
             }
           }
         ]
@@ -93,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5047149658203
+    "width": 200
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -155,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md"
+                "file": "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.4 Probability"
+              "title": "Outline of Assessed Exercise 2"
             }
           },
           {
@@ -208,51 +190,51 @@
   },
   "active": "00a6dc9b5010adae",
   "lastOpenFiles": [
-    "Assets/images/Pasted image 20241209143733.png",
-    "Assets/images/Pasted image 20241209100615.png",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/Concurrent Systems.md",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Concurrent Systems.pdf",
-    "Assets/images/Pasted image 20241209143848.png",
-    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 2.md",
-    "Assets/images/Pasted image 20241209141714.png",
-    "Assets/images/Pasted image 20241209141641.png",
-    "Assets/images/Pasted image 20241209141552.png",
-    "Assets/images/Pasted image 20241209141516.png",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Concurrent Systems Programming/SPGA_2_1 (1).pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting/Probability.pdf",
-    "Assets/images/Pasted image 20241209105402.png",
-    "Assets/images/Pasted image 20241209104921.png",
-    "Assets/images/Pasted image 20241209104416.png",
-    "Software Engineering/Year 2/Key Notes/Set Identities & Equivalences.md",
-    "Software Engineering/Year 2/Key Notes/Set Notation.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/Untitled.md",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting/Counting.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting/Permutations.pdf",
-    "Software Engineering/Year 2/Systems Programming/Slides/1. Learning C/Basics of Systems Programming.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/7. Counting",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming",
-    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 1.md",
-    "Software Engineering/Year 2/Systems Programming/Slides/1. Learning C",
-    "Untitled.md",
+    "Assets/images/Pasted image 20241217145415.png",
+    "Assets/images/Pasted image 20241217141820.png",
+    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Liam McManus (2895711).md",
+    "Personal/Football Streams.md",
     "Personal/London Winter Break.md",
-    "Software Engineering/Year 2/Systems Programming/SP Overview.md",
-    "Software Engineering/Year 2/Systems Programming/Pop Quiz Questions.md",
-    "Software Engineering/Year 2/Practical Algorithms/Exercises/Assessed Exercise 2/Assessed Exercise 2. Report.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.3 Induction.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.2 Permutations.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.1 Counting.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.3 Combinations.md",
+    "README.md",
+    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 1.md",
+    "Software Engineering/Year 2/Key Notes/Exam Tips.md",
+    "Software Engineering/Year 2/Systems Programming/Exam Practice",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.1 Intro to Concurrency.md",
+    "Personal/Life in UK Test.md",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.2 Intro to POSIX Threads.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.3 Rules of Inference.md",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.5 Concurrency Beyond Threads & Limits of Scalability.md",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.6 Virtual Memory & Levels of Storage.md",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Virtual Memory & Levels of Storage.pdf",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.4 More on Process Management (From an OS Perspective).md",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Concurrency Beyond Threads & Limits of Scalability.pdf",
+    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.3 Process and Thread Synchronization.md",
     "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.8 Sanitizer.md",
     "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.7 Bugs.md",
-    "Untitled.canvas",
-    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.8 Abstract Data Types.md",
-    "Software Engineering/Year 2/Practical Algorithms/Exercises/Assessed Exercise 2/Question 2. Binary Search Tree.md",
-    "Software Engineering/Year 2/Practical Algorithms/PA Overview.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting.md",
     "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.6 Input and Output.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.7 Trees.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.5 Dynamic Memory Allocation.md"
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.5 Dynamic Memory Allocation.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.4 Pointers.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.2 Components of a C Program.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.3 Program Structure.md",
+    "Software Engineering/Year 2/Systems Programming/SP Overview.md",
+    "Assets/images/Pasted image 20241217103126.png",
+    "Assets/images/Pasted image 20241217102931.png",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/8. Formal Reasoning/Rules of Inference.pdf",
+    "Assets/images/Pasted image 20241217103035.png",
+    "Assets/images/Pasted image 20241217102828.png",
+    "Assets/images/Pasted image 20241217102722.png",
+    "Assets/images/Pasted image 20241217102437.png",
+    "Assets/images/Pasted image 20241217102253.png",
+    "Assets/images/Pasted image 20241217102158.png",
+    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.1 Propositional Logic.md",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/8. Formal Reasoning/Propositional Logic.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.2 First-Order Logic.md",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Process and Thread Syncing.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.2 Permutations.md",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/More on Process Management.pdf",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Intro to Concurrency.pdf",
+    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Intro to POSIX Threads.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/6. Graphs",
+    "Untitled.canvas"
   ]
 }

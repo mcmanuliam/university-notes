@@ -40,3 +40,12 @@ More motivation in each of out first lectures.
 - [[1.3 Program Structure]]
 - [[1.4 Pointers]]
 - [[1.5 Dynamic Memory Allocation]]
+- [[1.6 Input and Output]]
+- [[1.7 Bugs]]
+- [[1.8 Sanitizer]]
+
+# Systems Programming
+- [[2.1 Intro to Concurrency]]
+- [[2.2 Intro to POSIX Threads]]
+- [[2.3 Process and Thread Synchronization]]
+- [[2.4 More on Process Management (From an OS Perspective)]]

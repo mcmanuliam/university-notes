@@ -37,8 +37,8 @@ Airline code (PNR): K8H9SVF
 
 - **Hopefully Cinema to see Wicked** (Not available to book but planning on booking later)
 	- **Location**: Canary Wharf 
-	- **Booking Status** - **TO BOOK**
-	- **Runtime**: ??.?? -> ??:??
+	- **Booking Status** - **CONFIRMED**
+	- **Runtime**: 19:45 -> …
 ## 14 Dec
 
 - **Camden Markets**
@@ -87,13 +87,3 @@ Airline code (PNR): K8H9SVF
 	- **Location:** Hyde Park, London. 
 	- **Closest Tube stations**: **Hyde Park Corner** or **Green Park**.
 	- **Entry:** Free entry, but tickets are required for specific attractions (book in advance for popular activities).
-
-- **Back to the Future in Theater**
-	- Should book soon (ish)
-
-- **[FAIRGAME](https://www.wearefairgame.com/games)**
-	- Game bar in Canary Wharf
-
-- **[Market Halls](https://markethalls.co.uk/)**
-
-- [**Jacuzzi**](https://maps.app.goo.gl/hyCiS2B1vHvmKvQB8)

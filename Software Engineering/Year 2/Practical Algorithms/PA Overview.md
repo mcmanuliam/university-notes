@@ -151,6 +151,9 @@ You will get feedback in the following ways:
 - [[7.2 Permutations]]
 - [[7.3 Combinations]]
 - [[7.4 Probability]]
+
+# 8. Formal Reasoning
+- [[8.1 Propositional Logic]]
 ## Exercises
 - [[Assessed Exercise 1. Brief]]
 ## Key Notes

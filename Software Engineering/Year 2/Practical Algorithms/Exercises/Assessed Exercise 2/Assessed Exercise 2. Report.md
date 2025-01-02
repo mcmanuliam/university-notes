@@ -11,6 +11,14 @@ and you are asked to determine whether the input expression is "valid", i.e., if
 
 (a) Discuss how you can use a stack data structure to solve your problem. 
 
+I'd say a stack is probably the easiest way to think about it, due to the first in last out properties we can just loop through all characters in an array 
+
+- If it's one of the closing parenthesis, if so then we compare it against the top element in the stack and if they are a pair you can pop it from the stack.
+
+- If it's not a closing parenthesis add it to the stack.
+
+Once we are done you can check the length of the stack, if it's empty it's valid if not it's invalid.
+
 (b) Implement your algorithm in Python. When run, your code should prompt the user to input the string of parentheses; then, it should correctly output "The expression is valid" or "The expression is not valid" . You may assume that your input string will contain only parenthesis characters, and no other special characters. That is, your code is expected to be able to handle inputs like '[{{()}}]', but you do not need to worry about dealing with inputs like '[,{,{,(,),},},]' or '[ { { ( ) } } ]' .
 
 ```python
@@ -81,15 +89,6 @@ A root will include:
 **(10 points)** 
 
 ```
-## Tree
-						
-					4
-				  /   \
-				2	    6
-			  /   \   /   \
-			 1     3 5     7
-
-
 ## Orderings
 	
 	[4, 2, 1, 3, 6, 5, 7]
@@ -142,7 +141,7 @@ A root will include:
 **(7 points)**
 
 ```
-Since there is no mention of it, I'm assuming these aren't meant to be balanced.
+Since there is no mention of it, I'm assuming these aren't meant to be balanced... Which makes this really funny.
 
 ## Binary Search Tree One
 						
