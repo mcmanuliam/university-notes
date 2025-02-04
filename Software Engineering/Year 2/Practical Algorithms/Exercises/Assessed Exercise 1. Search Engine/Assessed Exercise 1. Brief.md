@@ -1,6 +1,6 @@
 - [x] Practical Algorithms - Assessed Exercise 1 ⏫ 📅 2024-11-25 ✅ 2024-11-26
 
-- [[Assessed Exercise 1. Report]]
+- [[Software Engineering/Year 2/Practical Algorithms/Exercises/Assessed Exercise 1. Search Engine/Assessed Exercise 1. Report]]
 
 **Opened:** Tuesday, 5 November 2024, 9:00 AM
 **Due:** Monday, 25 November 2024, 10:00 PM

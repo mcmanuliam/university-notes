@@ -49,3 +49,5 @@ More motivation in each of out first lectures.
 - [[2.2 Intro to POSIX Threads]]
 - [[2.3 Process and Thread Synchronization]]
 - [[2.4 More on Process Management (From an OS Perspective)]]
+- [[2.5 Concurrency Beyond Threads & Limits of Scalability]]
+- [[2.6 Virtual Memory & Levels of Storage]]

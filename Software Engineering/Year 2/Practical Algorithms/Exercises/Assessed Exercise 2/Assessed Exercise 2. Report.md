@@ -1,4 +1,4 @@
-- [ ]  ⏫ 📅 2024-12-12 Assessed Exercise 2
+- [x] ⏫ 📅 2024-12-12 Assessed Exercise 2 ✅ 2025-01-02
 
 # Question 1 (40 points)
 You want to design an algorithm that solves the following problem: as input you are given a string that may contain only the parenthesis characters 
@@ -8,6 +8,7 @@ You want to design an algorithm that solves the following problem: as input you 
 ```
 
 and you are asked to determine whether the input expression is "valid", i.e., if the parentheses are properly balanced. For example, expression '[{()}]()' is valid, but expressions '[{()]()' , '[{{()})]' and ')(' are not valid.
+
 
 (a) Discuss how you can use a stack data structure to solve your problem. 
 

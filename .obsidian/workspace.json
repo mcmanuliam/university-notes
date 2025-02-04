@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d65dece45128bbdc",
+        "id": "cbb594a4d69781d3",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc4bb5b1d7dabdc",
+            "id": "41fd4c3558b273be",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/images/Pasted image 20241217141820.png"
+                "file": "Personal/Misc/Football Streams.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241217141820"
+              "icon": "lucide-file",
+              "title": "Football Streams"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -50,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof by",
+                "query": "preorder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 330.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -185,56 +188,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
       "publish:Publish changes...": true,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "print:Print note": false
     }
   },
-  "active": "00a6dc9b5010adae",
+  "active": "41fd4c3558b273be",
   "lastOpenFiles": [
-    "Assets/images/Pasted image 20241217145415.png",
-    "Assets/images/Pasted image 20241217141820.png",
-    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Liam McManus (2895711).md",
-    "Personal/Football Streams.md",
-    "Personal/London Winter Break.md",
-    "README.md",
-    "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 1.md",
-    "Software Engineering/Year 2/Key Notes/Exam Tips.md",
-    "Software Engineering/Year 2/Systems Programming/Exam Practice",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.1 Intro to Concurrency.md",
-    "Personal/Life in UK Test.md",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.2 Intro to POSIX Threads.md",
+    "Personal/Misc/London Winter Break.md",
+    "Personal/Misc/Football Streams.md",
+    "Personal/Cyber Security/Resources.md",
+    "Daily Study.md",
+    "SYSTEMS PROGRAMMING COMPSCI 2030.md",
+    "PA EXAM 2022 - 23.md",
     "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.3 Rules of Inference.md",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.5 Concurrency Beyond Threads & Limits of Scalability.md",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.6 Virtual Memory & Levels of Storage.md",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Virtual Memory & Levels of Storage.pdf",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.4 More on Process Management (From an OS Perspective).md",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Concurrency Beyond Threads & Limits of Scalability.pdf",
-    "Software Engineering/Year 2/Systems Programming/Units/2. Systems Programming/2.3 Process and Thread Synchronization.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.8 Sanitizer.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.7 Bugs.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.6 Input and Output.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.5 Dynamic Memory Allocation.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.4 Pointers.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.2 Components of a C Program.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.3 Program Structure.md",
-    "Software Engineering/Year 2/Systems Programming/SP Overview.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.2 Predicate Logic & Quantifiers.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.1 Propositional Logic.md",
+    "Software Engineering/Year 2/Practical Algorithms/0. Formula Sheet.md",
+    "Software Engineering/Year 2/Practical Algorithms/PA Overview.md",
+    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2023-24.pdf",
+    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2022-23.pdf",
+    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2021-22.pdf",
+    "Software Engineering/Year 2/Key Notes/Set Notation.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.3 Sets.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.3 Combinations.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.1 Counting.md",
+    "Software Engineering/Studying/Year 2/Semester 1/Flashcards/PA.md",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/4. Sequences, Induction and Recursion/Sequences.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.2 Sequences, Recurrence Relations and Summations.md",
+    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/DSR/dsr_2023.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Units/2. Algorithm Analysis/2. Big-O Notation.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.4 Functions and Relations.md",
+    "Software Engineering/Year 2/Practical Algorithms/Practical Algorithms SuperNote.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/1. Introduction & Warming Up/1. Writing Algorithms to solve problems.md",
+    "Software Engineering/Year 2/Practical Algorithms/Slides/2. Algorithm Analysis/Algorithm Analysis.pdf",
+    "README.md",
+    "Software Engineering/Year 2/Year 2 Overview.md",
+    "Software Engineering/TOPRINT/Practical Algorithms 1/Units/8. Formal Reasoning/8.3 Rules of Inference.md",
+    "Software Engineering/TOPRINT/Practical Algorithms 1/Units/8. Formal Reasoning/8.2 Predicate Logic & Quantifiers.md",
+    "Software Engineering/TOPRINT/Practical Algorithms 1/Slides/5. Searching and Sorting/Sorting.pdf",
+    "Software Engineering/TOPRINT/Practical Algorithms 1/Slides/5. Searching and Sorting/Searching.pdf",
+    "Software Engineering/TOPRINT/Practical Algorithms 1/Slides/8. Formal Reasoning/Rules of Inference.pdf",
+    "Software Engineering/TOPRINT/Practical Algorithms 1/Slides/8. Formal Reasoning/Propositional Logic.pdf",
+    "Assets/images/Screenshot 2025-01-03 at 20.55.46.png",
+    "Assets/images/Pasted image 20241217141820.png",
+    "Assets/images/Pasted image 20241217145415.png",
     "Assets/images/Pasted image 20241217103126.png",
     "Assets/images/Pasted image 20241217102931.png",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/8. Formal Reasoning/Rules of Inference.pdf",
     "Assets/images/Pasted image 20241217103035.png",
     "Assets/images/Pasted image 20241217102828.png",
     "Assets/images/Pasted image 20241217102722.png",
     "Assets/images/Pasted image 20241217102437.png",
     "Assets/images/Pasted image 20241217102253.png",
-    "Assets/images/Pasted image 20241217102158.png",
-    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.1 Propositional Logic.md",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/8. Formal Reasoning/Propositional Logic.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.2 First-Order Logic.md",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Process and Thread Syncing.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.2 Permutations.md",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/More on Process Management.pdf",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Intro to Concurrency.pdf",
-    "Software Engineering/Year 2/Systems Programming/Slides/2. Systems Programming/Intro to POSIX Threads.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/6. Graphs",
     "Untitled.canvas"
   ]
 }

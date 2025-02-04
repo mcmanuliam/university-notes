@@ -11,5 +11,6 @@
   "dataview",
   "obsidian-charts",
   "obsidian-tasks-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "print"
 ]
