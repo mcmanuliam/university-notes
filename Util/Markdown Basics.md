@@ -2,8 +2,8 @@
 Headers in Markdown are created by using the `#` symbol. The number of `#` symbols determines the header level.
 
 ```
-# H1 Header 
-## H2 Header 
+# H1 Header
+## H2 Header
 ### H3 Header
 ```
 ### 2. Emphasis
