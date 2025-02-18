@@ -20,5 +20,3 @@ If you don't already have Obsidian installed, you can download it from the offic
 1. Open Obsidian.
 2. Click on **Open Folder as Vault**.
 3. Navigate to the directory where you cloned this repository and select it.
-
-That's it! You now have full access to this notebase in Obsidian.
