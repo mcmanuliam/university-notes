@@ -1,4 +1,4 @@
-Welcome to the `Notebase`! This repo contains a collection of notes from the **Apprenticeship** and a fuck ton of **Waffle**, structured and optimised for use with [Obsidian](https://obsidian.md/).
+Welcome to the `glasgow-university-GA-notebase` This repo contains a collection of notes from the **Course** and a fuck ton of **Waffle**, structured and optimised for use with [Obsidian](https://obsidian.md/).
 
 # Getting Started
 To set up and use this notebase, follow these steps:
