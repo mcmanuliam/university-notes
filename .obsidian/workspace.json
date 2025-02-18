@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6743f7d8e92757d8",
+        "id": "ff080d31737e4f52",
         "type": "tabs",
         "children": [
           {
-            "id": "f9dc53dea6ba5bbb",
+            "id": "536447adf4906af1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Year 2/Data Storage and Retrieval/Key Notes/8. SQL Design Patterns.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8. SQL Design Patterns"
+              "title": "New tab"
             }
           }
         ]
@@ -192,12 +188,34 @@
       "print:Print note": false
     }
   },
-  "active": "f9dc53dea6ba5bbb",
+  "active": "536447adf4906af1",
   "lastOpenFiles": [
+    "Software Engineering/Year 2/Year 2 Overview.md",
+    "Software Engineering/Year 2/Data Storage and Retrieval/Studying/Practice Exam Questions.md",
+    "Software Engineering/Year 2/Key Notes/Exam Tips.md",
+    "Software Engineering/Year 2/Practical Algorithms/Practical Algorithms SuperNote.md",
+    "Util/Markdown Basics.md",
+    "Util/Todays Tasks.md",
+    "README.md",
+    "Daily Study.md",
+    "DSR.md",
+    "Pasted image 20250211152038.png",
+    "Personal/Misc/Football Streams.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.4 Pointers.md",
+    "Pasted image 20250211151502.png",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.1 Introduction.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.8 Sanitizer.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.5 Dynamic Memory Allocation.md",
+    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.6 Input and Output.md",
+    "Software Engineering/Year 2/Systems Programming/Units/0. Getting Started/0.2 Clang User Manual.md",
+    "Software Engineering/Year 2/Data Storage and Retrieval/Slides/3 .Data Modelling, ER Diagram's.pdf",
+    "Software Engineering/Year 2/Data Storage and Retrieval/Slides/2. Design & implementation of a (relational) database application.pdf",
+    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.7 Trees.md",
+    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.8 Abstract Data Types.md",
+    "Software Engineering/Year 2/Data Storage and Retrieval/Key Notes/8. SQL Design Patterns.md",
     "Software Engineering/Year 2/Data Storage and Retrieval/Units/10. Transactions and Views.md",
     "Software Engineering/Year 2/Data Storage and Retrieval/Slides/8. More SQL.pdf",
     "Software Engineering/Year 2/Data Storage and Retrieval/Slides/9. No SQL.pdf",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Key Notes/8. SQL Design Patterns.md",
     "Software Engineering/Year 2/Data Storage and Retrieval/Units/8. SQL.md",
     "Software Engineering/Year 2/Data Storage and Retrieval/Key Notes",
     "Software Engineering/Year 2/Practical Algorithms/Slides/8. Formal Reasoning/Rules of Inference.pdf",
@@ -206,29 +224,10 @@
     "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.2 Predicate Logic & Quantifiers.md",
     "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.1 Propositional Logic.md",
     "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.3 Combinations.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.1 Counting.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.2 Permutations.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/2. Design & implementation of a (relational) database application.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/1. Issues in data & information Management.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/11. Vector Database (More AI buzzwords).md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/9. Beyond the Relational Model (No SQL).md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/7. Relations and Relational Algebra.md",
     "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2023-24.pdf",
     "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2022-23.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.3 Induction.md",
     "Software Engineering/Studying/Year 2/Semester 1/Past Papers/SP/sp_2024.pdf",
     "Software Engineering/Studying/Year 2/Semester 1/Past Papers/SP/sp_2022.pdf",
-    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/SP/Marking Scheme/sp_2022.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.3 Sets.md",
-    "Software Engineering/Year 2/Practical Algorithms/Keynotes/2.2 Analyzing Algorithms - Rules for Comparing.md",
-    "Personal/Misc/Football Streams.md",
-    "Personal/Misc/London Winter Break.md",
-    "Personal/Cyber Security/Resources.md",
-    "Daily Study.md",
-    "SYSTEMS PROGRAMMING COMPSCI 2030.md",
-    "PA EXAM 2022 - 23.md",
-    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2021-22.pdf",
     "Assets/images/Screenshot 2025-01-03 at 20.55.46.png",
     "Assets/images/Pasted image 20241217141820.png",
     "Assets/images/Pasted image 20241217145415.png",
@@ -237,8 +236,6 @@
     "Assets/images/Pasted image 20241217103035.png",
     "Assets/images/Pasted image 20241217102828.png",
     "Assets/images/Pasted image 20241217102722.png",
-    "Assets/images/Pasted image 20241217102437.png",
-    "Assets/images/Pasted image 20241217102253.png",
     "Untitled.canvas"
   ]
 }

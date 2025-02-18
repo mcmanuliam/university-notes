@@ -12,5 +12,6 @@
   "obsidian-charts",
   "obsidian-tasks-plugin",
   "obsidian-pandoc",
-  "print"
+  "print",
+  "better-export-pdf"
 ]
