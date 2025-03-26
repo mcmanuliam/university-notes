@@ -1,0 +1,1 @@
+{"path":"files/images/Pasted image 20241119151812.png","text":"Student(Name, ClassSubject, CampusName, GPA) Course(Title, Degree, CampusName) Campus(Name, Address) Class(CourseTitle, Year, Subject)","libVersion":"0.3.2","langs":"eng"}

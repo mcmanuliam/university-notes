@@ -1,0 +1,1 @@
+{"path":"files/images/Screenshot 2025-03-11 at 10.30.27.png","text":"adjacency list u:v(4)-w(5)—»x(7) v:iu(4)-»w(5)—»x(6) wiu(5)—~v(5)—~y(4)—z(5) x:u(7)—v(6) »y(8)—z(6) y:w(4) —»x(8)~z(7) z:w(5) —»x(6)~y(7)","libVersion":"0.3.2","langs":"eng"}

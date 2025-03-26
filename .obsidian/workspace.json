@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ff080d31737e4f52",
+        "id": "d69b27130c4ed43b",
         "type": "tabs",
         "children": [
           {
-            "id": "536447adf4906af1",
+            "id": "aabe2b61bd75d299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "files/images/Screenshot 2025-03-21 at 10.28.20.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-03-21 at 10.28.20"
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "preorder",
+                "query": "CNF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 408.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -136,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 2.md"
+                "file": "software engineering/year 2/semester 2/Algorithmics/Tutorial/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5 Sheet.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assessed Exercise 2"
+              "title": "Outline of 3.5 Sheet"
             }
           },
           {
@@ -152,8 +157,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -176,66 +181,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
-      "markdown-importer:Open format converter": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
-      "publish:Publish changes...": true,
       "canvas:Create new canvas": false,
       "print:Print note": false
     }
   },
-  "active": "536447adf4906af1",
+  "active": "00a6dc9b5010adae",
   "lastOpenFiles": [
-    "Software Engineering/Year 2/Year 2 Overview.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Studying/Practice Exam Questions.md",
-    "Software Engineering/Year 2/Key Notes/Exam Tips.md",
-    "Software Engineering/Year 2/Practical Algorithms/Practical Algorithms SuperNote.md",
-    "Util/Markdown Basics.md",
-    "Util/Todays Tasks.md",
-    "README.md",
+    "files/images/Screenshot 2025-03-25 at 10.29.44.png",
+    "files/images/Screenshot 2025-03-21 at 10.28.20.png",
+    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.2 String Comparison.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.3 Pattern or String matching.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 Text Compression.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.4  Polynomial-time reductions.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.9 Church-Turing thesis.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.8 Counter Programs.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.7 Turing Time.md",
+    "files/images/Screenshot 2025-03-25 at 10.45.21.png",
+    "files/images/Screenshot 2025-03-25 at 10.37.16.png",
+    "files/images/Screenshot 2025-03-25 at 10.37.09.png",
+    "files/images/Screenshot 2025-03-25 at 10.36.43.png",
+    "files/images/Screenshot 2025-03-25 at 10.36.33.png",
+    "files/images/Screenshot 2025-03-25 at 10.36.25.png",
+    "files/images/Screenshot 2025-03-25 at 10.36.13.png",
+    "files/images/Screenshot 2025-03-25 at 10.36.02.png",
+    "files/images/Screenshot 2025-03-25 at 10.35.51.png",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.6 Pushdown Automata.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.4 Regex.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.3 Models of Computation.md",
+    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability/5.2 Computability Part 2.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability/5.3 Computability Part 3.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability/5.1 Computability Part 1.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Slides/1. Sorting Algorithms.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.1 Introduction.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.5 Formal definition of NP-completeness.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.3 The classes P and NP.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.2 NP-Complete Problems.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.1 Introduction.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.2 The Halting Problem.md",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/Untitled.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability",
+    "files/DSR-group-work-4-solutions.pdf",
     "Daily Study.md",
-    "DSR.md",
-    "Pasted image 20250211152038.png",
-    "Personal/Misc/Football Streams.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.4 Pointers.md",
-    "Pasted image 20250211151502.png",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.1 Introduction.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.8 Sanitizer.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.5 Dynamic Memory Allocation.md",
-    "Software Engineering/Year 2/Systems Programming/Units/1.  Basics of Systems Programming/1.6 Input and Output.md",
-    "Software Engineering/Year 2/Systems Programming/Units/0. Getting Started/0.2 Clang User Manual.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Slides/3 .Data Modelling, ER Diagram's.pdf",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Slides/2. Design & implementation of a (relational) database application.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.7 Trees.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.8 Abstract Data Types.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Key Notes/8. SQL Design Patterns.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/10. Transactions and Views.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Slides/8. More SQL.pdf",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Slides/9. No SQL.pdf",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Units/8. SQL.md",
-    "Software Engineering/Year 2/Data Storage and Retrieval/Key Notes",
-    "Software Engineering/Year 2/Practical Algorithms/Slides/8. Formal Reasoning/Rules of Inference.pdf",
-    "Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.5 Proof by induction template.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.3 Rules of Inference.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.2 Predicate Logic & Quantifiers.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.1 Propositional Logic.md",
-    "Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.3 Combinations.md",
-    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2023-24.pdf",
-    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/PA/pa_exam_2022-23.pdf",
-    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/SP/sp_2024.pdf",
-    "Software Engineering/Studying/Year 2/Semester 1/Past Papers/SP/sp_2022.pdf",
-    "Assets/images/Screenshot 2025-01-03 at 20.55.46.png",
-    "Assets/images/Pasted image 20241217141820.png",
-    "Assets/images/Pasted image 20241217145415.png",
-    "Assets/images/Pasted image 20241217103126.png",
-    "Assets/images/Pasted image 20241217102931.png",
-    "Assets/images/Pasted image 20241217103035.png",
-    "Assets/images/Pasted image 20241217102828.png",
-    "Assets/images/Pasted image 20241217102722.png",
+    "2025-03-21.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.4 Topological ordering.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.1 Shortest path (Dijkstra's Algorithm).md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.2 Minimum Spanning Tree (Prim-Jarnik and Dijkstra's refinement).md",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/4. NP Completeness/4.1 NP Completeness Part 1.md",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/4. NP Completeness/4.2 NP Completeness Part 2.md",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/4. NP Completeness",
+    "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Peter Naur, Programming as Theory Building.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Slides/4. NP Completeness/4.2 NP Completeness part 2.pdf",
     "Untitled.canvas"
   ]
 }

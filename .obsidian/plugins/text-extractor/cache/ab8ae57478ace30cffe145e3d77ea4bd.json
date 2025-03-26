@@ -1,0 +1,1 @@
+{"path":"files/images/Pasted image 20241114150637.png","text":"SELECT “exam_mark’ FROM Enrollment, Course WHERE Enrollment.course_id=Course.id AND Course.title=\"CS-1Q\" el - exam_mark i T 2 88 3 @ 4 32","libVersion":"0.3.2","langs":"eng"}

@@ -1,0 +1,1 @@
+{"path":"files/images/Pasted image 20241114151022.png","text":"SELECT Staff.name_firstname, Staff.name_surname FROM Staff WHERE Staff.staff_no = Staff.manager_no = (1D","libVersion":"0.3.2","langs":"eng"}

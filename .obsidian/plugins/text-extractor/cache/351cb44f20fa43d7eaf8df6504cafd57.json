@@ -1,0 +1,1 @@
+{"path":"files/images/Pasted image 20241114150748.png","text":"SELECT ‘name_firstname', name_surname’ FROM Teaches, Course, Staff WHERE Teaches.course_id=Course.id AND Teaches.staff_no=Staff.staff_no AND Course.title=\"CS-1Q\" AND Staff.job_title=\"professor\" Sl < ‘name_firstname name_surname : -","libVersion":"0.3.2","langs":"eng"}

@@ -121,41 +121,36 @@ You will get feedback in the following ways:
 ## Units
 
 ### 1. Introduction to Algorithms
-- [[Software Engineering/Year 2/Practical Algorithms/Units/1. Introduction & Warming Up/1. Writing Algorithms to solve problems]]
-
+- [[1. Writing Algorithms to solve problems]]
 ### 2. Algorithm Analysis
-- [[Software Engineering/Year 2/Practical Algorithms/Units/2. Algorithm Analysis/2. Big-O Notation]]
-
+- [[2. Big-O Notation]]
 ### 3. Data Collections
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.3 Sets]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.4 Functions and Relations]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.5 The Computing Perspective]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.6 Dynamic vs Static]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.7 Trees]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.8 Abstract Data Types]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/3. Data Collections/3.9 Hash Tables]]
+- [[software engineering/year 2/Practical Algorithms/Units/3. Data Collections/3.3 Sets|3.3 Sets]]
+- [[3.4 Functions and Relations]]
+- [[3.5 The Computing Perspective]]
+- [[3.6 Dynamic vs Static]]
+- [[3.7 Trees]]
+- [[3.8 Abstract Data Types]]
+- [[3.9 Hash Tables]]
 ### 4. Sequences, Induction and Recursion
-- [[Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.2 Sequences, Recurrence Relations and Summations]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.3 Induction]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/4. Sequences, Induction and Recursion/4.4 Recursive Algorithms]]
-
+- [[4.2 Sequences, Recurrence Relations and Summations]]
+- [[4.3 Induction]]
+- [[4.4 Recursive Algorithms]]
+- [[4.5 Proof by induction template]]
 ### 5. Searching and Sorting
-- [[Software Engineering/Year 2/Practical Algorithms/Units/5. Searching and Sorting/5.1 Why search and sort]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/5. Searching and Sorting/5.2 Searching]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/5. Searching and Sorting/5.3 Sorting]]
+- [[5.1 Why search and sort]]
+- [[5.2 Searching]]
+- [[5.3 Sorting]]
 
-### [[Software Engineering/Year 2/Practical Algorithms/Units/6. Graphs/6. Graphs]]
+### [[6. Graphs]]
 
 ## 7. Counting
-- [[Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.1 Counting]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.2 Permutations]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.3 Combinations]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability]]
-
+- [[7.1 Counting]]
+- [[7.2 Permutations]]
+- [[7.3 Combinations]]
+- [[software engineering/year 2/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability|7.4 Probability]]
 # 8. Formal Reasoning
-- [[Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.1 Propositional Logic]]
-- [[Software Engineering/Year 2/Practical Algorithms/Units/8. Formal Reasoning/8.2 Predicate Logic & Quantifiers]]
-## Exercises
-- [[Software Engineering/Year 2/Practical Algorithms/Exercises/Assessed Exercise 1. Search Engine/Assessed Exercise 1. Brief]]
-## Key Notes
-- [[Software Engineering/Year 2/Practical Algorithms/Keynotes/2.2 Analyzing Algorithms - Rules for Comparing]]
+- [[8.1 Propositional Logic]]
+- [[8.2 Predicate Logic & Quantifiers]]
+- [[8.3 Rules of Inference]]
+

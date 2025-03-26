@@ -35,7 +35,7 @@ More motivation in each of out first lectures.
 - [[0.1 Idiots Guide to C]]
 - [[0.2 Clang User Manual]]
 ### Basics of Systems Programming
-- [[1.1 Introduction]]
+- [[software engineering/year 2/semester 1/Systems Programming/Units/1.  Basics of Systems Programming/1.1 Introduction]]
 - [[1.2 Components of a C Program]]
 - [[1.3 Program Structure]]
 - [[1.4 Pointers]]

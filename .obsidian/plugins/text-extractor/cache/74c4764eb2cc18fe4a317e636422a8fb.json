@@ -1,0 +1,1 @@
+{"path":"files/images/Screenshot 2025-03-05 at 10.30.40.png","text":"d(i-1,j-1 d@i,j) = 1+min{ d(i,j-1),d(i-1,5),d(i-1,j-1)}","libVersion":"0.3.2","langs":"eng"}

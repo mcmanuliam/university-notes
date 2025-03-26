@@ -8,49 +8,42 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Year 2/Data Storage and Retrieval\"  ",
+      "query": "path:\"software engineering/year 2/semester 2/Advanced Professional Software Engineering\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 4672445
       }
     },
     {
-      "query": "path:\"Year 2/Algorithms\"  ",
+      "query": "path:\"software engineering/year 2/semester 1/Data Storage and Retrieval\"  ",
       "color": {
         "a": 1,
-        "rgb": 7921746
+        "rgb": 14369833
       }
     },
     {
-      "query": "path:\"Year 2/Practical Algorithms\"  ",
+      "query": "path:\"software engineering/year 2/semester 1/Systems Programming\"  ",
       "color": {
         "a": 1,
-        "rgb": 4289460
+        "rgb": 5405920
       }
     },
     {
-      "query": "path:\"Year 2/Data Science and Fundamentals\"  ",
+      "query": "path:\"software engineering/year 2/semester 2/Algorithmics\"  ",
       "color": {
         "a": 1,
-        "rgb": 12481289
+        "rgb": 16771584
       }
     },
     {
-      "query": "path:\"Year 2/Systems Programming\"  ",
+      "query": "path:\"software engineering/year 2/semester 1/Practical Algorithms\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
-    },
-    {
-      "query": "path:\"Year 2/User Interaction\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13193952
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 0.858341923133559,
@@ -60,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.16793254798915877,
-  "close": true
+  "scale": 0.12080352285436902,
+  "close": false
 }
