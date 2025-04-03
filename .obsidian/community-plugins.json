@@ -12,5 +12,6 @@
   "better-export-pdf",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "colored-tags"
 ]

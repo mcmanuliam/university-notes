@@ -11,42 +11,42 @@
       "query": "tag:#ui  ",
       "color": {
         "a": 1,
-        "rgb": 3380991
+        "rgb": 10735871
       }
     },
     {
       "query": "tag:#dsf  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 15990712
       }
     },
     {
       "query": "tag:#apse  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 11403236
       }
     },
     {
       "query": "tag:#dsr  ",
       "color": {
         "a": 1,
-        "rgb": 16075008
+        "rgb": 16729927
       }
     },
     {
       "query": "tag:#deepseek  ",
       "color": {
         "a": 1,
-        "rgb": 4536575
+        "rgb": 6116095
       }
     },
     {
       "query": "tag:#algo  ",
       "color": {
         "a": 1,
-        "rgb": 10354442
+        "rgb": 14483368
       }
     },
     {
@@ -60,14 +60,14 @@
       "query": "tag:#global  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 10724259
       }
     },
     {
       "query": "tag:#sp",
       "color": {
         "a": 1,
-        "rgb": 16759552
+        "rgb": 7029503
       }
     },
     {
@@ -84,10 +84,10 @@
   "nodeSizeMultiplier": 1.02991536458333,
   "lineSizeMultiplier": 1.15971272786458,
   "collapse-forces": false,
-  "centerStrength": 0.4146728515625,
+  "centerStrength": 0.603352864583333,
   "repelStrength": 19.27734375,
   "linkStrength": 0.528767903645833,
-  "linkDistance": 500,
-  "scale": 0.6909380152786645,
+  "linkDistance": 99,
+  "scale": 0.2477239599881414,
   "close": false
 }

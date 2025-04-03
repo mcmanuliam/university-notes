@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "global": 1,
+    "study": 2,
+    "misc": 3,
+    "dsr": 4,
+    "pa": 5,
+    "sp": 6,
+    "apse": 7,
+    "algo": 8,
+    "excalidraw": 9,
+    "deepseek": 10,
+    "dsf": 11,
+    "ui": 12
+  },
+  "_version": 3
+}
