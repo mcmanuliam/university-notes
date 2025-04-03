@@ -1,5 +1,4 @@
-- [x] ⏫ 📅 2024-12-12 Assessed Exercise 2 ✅ 2025-01-02
-
+#pa 
 # Question 1 (40 points)
 You want to design an algorithm that solves the following problem: as input you are given a string that may contain only the parenthesis characters 
 

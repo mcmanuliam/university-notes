@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d69b27130c4ed43b",
+        "id": "1c66e52fbd56692e",
         "type": "tabs",
         "children": [
           {
-            "id": "aabe2b61bd75d299",
+            "id": "14e715fe43937d2d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "files/images/Screenshot 2025-03-21 at 10.28.20.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-21 at 10.28.20"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CNF",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 409.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -138,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software engineering/year 2/semester 2/Algorithmics/Tutorial/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5 Sheet.pdf",
+                "file": "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/3. Process Improvement Report/AE3 - 2895711M - Process Improvement Report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.5 Sheet"
+              "title": "Outline of AE3 - 2895711M - Process Improvement Report"
             }
           },
           {
@@ -176,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,60 +184,60 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "templates:Insert template": false,
-      "canvas:Create new canvas": false,
-      "print:Print note": false
+      "canvas:Create new canvas": true,
+      "print:Print note": true,
+      "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "00a6dc9b5010adae",
+  "active": "14e715fe43937d2d",
   "lastOpenFiles": [
-    "files/images/Screenshot 2025-03-25 at 10.29.44.png",
-    "files/images/Screenshot 2025-03-21 at 10.28.20.png",
-    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.2 String Comparison.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.3 Pattern or String matching.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 Text Compression.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.4  Polynomial-time reductions.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.9 Church-Turing thesis.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.8 Counter Programs.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.7 Turing Time.md",
-    "files/images/Screenshot 2025-03-25 at 10.45.21.png",
-    "files/images/Screenshot 2025-03-25 at 10.37.16.png",
-    "files/images/Screenshot 2025-03-25 at 10.37.09.png",
-    "files/images/Screenshot 2025-03-25 at 10.36.43.png",
-    "files/images/Screenshot 2025-03-25 at 10.36.33.png",
-    "files/images/Screenshot 2025-03-25 at 10.36.25.png",
-    "files/images/Screenshot 2025-03-25 at 10.36.13.png",
-    "files/images/Screenshot 2025-03-25 at 10.36.02.png",
-    "files/images/Screenshot 2025-03-25 at 10.35.51.png",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.6 Pushdown Automata.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.4 Regex.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.3 Models of Computation.md",
-    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability/5.2 Computability Part 2.pdf",
-    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability/5.3 Computability Part 3.pdf",
-    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability/5.1 Computability Part 1.pdf",
-    "software engineering/year 2/semester 2/Algorithmics/Slides/1. Sorting Algorithms.pdf",
-    "software engineering/year 2/semester 2/Algorithmics/Slides/5. Computability",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.1 Introduction.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.5 Formal definition of NP-completeness.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.3 The classes P and NP.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.2 NP-Complete Problems.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.1 Introduction.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability/5.2 The Halting Problem.md",
-    "software engineering/year 2/semester 2/Algorithmics/Tutorial/Untitled.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/5. Computability",
-    "files/DSR-group-work-4-solutions.pdf",
-    "Daily Study.md",
-    "2025-03-21.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms.md",
-    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.4 Topological ordering.md",
+    "software engineering/year 2/semester 2/Algorithmics/Assessed Exercise/GraphExplanation.excalidraw.md",
+    "software engineering/year 2/semester 2/Algorithmics/Assessed Exercise/0. Report.md",
+    "software engineering/year 2/semester 2/Algorithmics/Assessed Exercise/0. Brief.pdf",
     "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.1 Shortest path (Dijkstra's Algorithm).md",
     "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.2 Minimum Spanning Tree (Prim-Jarnik and Dijkstra's refinement).md",
-    "software engineering/year 2/semester 2/Algorithmics/Tutorial/4. NP Completeness/4.1 NP Completeness Part 1.md",
-    "software engineering/year 2/semester 2/Algorithmics/Tutorial/4. NP Completeness/4.2 NP Completeness Part 2.md",
-    "software engineering/year 2/semester 2/Algorithmics/Tutorial/4. NP Completeness",
+    "software engineering/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms.md",
+    "software engineering/year 2/semester 1/Practical Algorithms/Units/2. Algorithm Analysis/2. Big-O Notation.md",
+    "utilities/Markdown Basics.md",
+    "2025-04-03.md",
+    "2025-W14.md",
+    "utilities/Todays Tasks.md",
+    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples/LZW Special Case.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples/LZW Base Example.pdf",
+    "software engineering/year 2/semester 1/Systems Programming/Units/0. Getting Started/0.1 Idiots Guide to C.md",
+    "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Units/3.1 System Architecture.md",
+    "software engineering/year 2/semester 2/Algorithmics/Assessed Exercise/Brief.md",
+    "software engineering/year 2/semester 2/Drawing 2025-04-03 15.54.23.excalidraw.md",
+    "software engineering/year 2/semester 2/Algorithmics/Assessed Exercise",
+    "software engineering/year 2/semester 1/Systems Programming/Units/2. Systems Programming/2.3 Process and Thread Synchronization.md",
+    "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/1.2 Part B. A Null process?.md",
+    "software engineering/year 2/semester 2/User Interaction/Assessed Exercices/2. Heuristic Evaluation/2.0 Brief.md",
+    "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/3. Process Improvement Report/3. Draft.md",
+    "software engineering/year 2/semester 1/Systems Programming/Assessed Exercises/Assessed Exercise 1.md",
+    "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/3. Process Improvement Report/AE3 - 2895711M - Process Improvement Report.md",
+    "software engineering/year 2/semester 1/Practical Algorithms/Exercises/Assessed Exercise 1. Search Engine/Assessed Exercise 1. Brief.md",
+    "software engineering/year 2/semester 1/Data Storage and Retrieval/Exercises/Assessed Exercise 2.md",
+    "software engineering/year 2/semester 1/Practical Algorithms/Exercises/Assessed Exercise 2/Assessed Exercise 2. Report.md",
+    "software engineering/year 2/semester 1/Systems Programming/Assessed Exercises/Liam McManus (2895711).md",
+    "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Assessed Exercise.md",
     "software engineering/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Peter Naur, Programming as Theory Building.pdf",
-    "software engineering/year 2/semester 2/Algorithmics/Slides/4. NP Completeness/4.2 NP Completeness part 2.pdf",
+    "software engineering/year 2/semester 1/Practical Algorithms/Exercises/Assessed Exercise 2/Assessed Exercise 2. Brief.pdf",
+    "files/images/Screenshot 2025-04-03 at 11.39.52.png",
+    "files/images/Screenshot 2025-04-03 at 14.36.45.png",
+    "software engineering/year 2/semester 1/Practical Algorithms/Keynotes/8. Logical Equivalences.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5 Sheet.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/2. Strings and Text algorithms/2.1 Text Compression/2.1 Sheet.pdf",
+    "software engineering/year 2/semester 2/Algorithmics/Tutorial/1. Sorting and Tries/1. Sheet.pdf",
+    "files/images/Screenshot 2025-04-03 at 14.49.48.png",
+    "files/images/Screenshot 2025-04-03 at 14.37.49.png",
+    "files/images/Screenshot 2025-04-02 at 10.18.32.png",
+    "files/images/Screenshot 2025-04-02 at 11.02.35.png",
+    "files/images/Screenshot 2025-04-02 at 10.52.52.png",
+    "files/images/Screenshot 2025-04-02 at 10.40.51.png",
+    "files/images/Screenshot 2025-04-02 at 10.34.59.png",
+    "files/images/Screenshot 2025-04-02 at 10.33.17.png",
     "Untitled.canvas"
   ]
 }

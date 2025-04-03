@@ -1,17 +1,16 @@
 [
   "obsidian-linter",
   "obsidian-git",
-  "obsidian-icon-folder",
   "code-emitter",
   "tag-wrangler",
   "various-complements",
   "omnisearch",
   "text-extractor",
   "table-editor-obsidian",
-  "dataview",
-  "obsidian-charts",
   "obsidian-tasks-plugin",
-  "obsidian-pandoc",
   "print",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-pandoc"
 ]

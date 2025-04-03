@@ -1,3 +1,4 @@
+#sp 
 # Search
 I'm handling this one asynchronously it's relatively simple, check if the root is `NULL` if it is it'll return `NULL`, else it'll check if found then return a pointer to the node, if neither of these it'll recursively call itself picking left and right until the end of the tree or the value is found.
 

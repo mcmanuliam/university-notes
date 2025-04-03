@@ -1,3 +1,5 @@
+#pa 
+
 # Practical Algorithms 2024-25, University of Glasgow
 Assessed Exercise 1 - *The PA Directory Search Engine*
 

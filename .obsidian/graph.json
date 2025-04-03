@@ -8,51 +8,86 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"software engineering/year 2/semester 2/Advanced Professional Software Engineering\"  ",
+      "query": "tag:#ui  ",
       "color": {
         "a": 1,
-        "rgb": 4672445
+        "rgb": 3380991
       }
     },
     {
-      "query": "path:\"software engineering/year 2/semester 1/Data Storage and Retrieval\"  ",
+      "query": "tag:#dsf  ",
       "color": {
         "a": 1,
-        "rgb": 14369833
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:\"software engineering/year 2/semester 1/Systems Programming\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5405920
-      }
-    },
-    {
-      "query": "path:\"software engineering/year 2/semester 2/Algorithmics\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16771584
-      }
-    },
-    {
-      "query": "path:\"software engineering/year 2/semester 1/Practical Algorithms\"  ",
+      "query": "tag:#apse  ",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#dsr  ",
+      "color": {
+        "a": 1,
+        "rgb": 16075008
+      }
+    },
+    {
+      "query": "tag:#deepseek  ",
+      "color": {
+        "a": 1,
+        "rgb": 4536575
+      }
+    },
+    {
+      "query": "tag:#algo  ",
+      "color": {
+        "a": 1,
+        "rgb": 10354442
+      }
+    },
+    {
+      "query": "tag:#pa",
+      "color": {
+        "a": 1,
+        "rgb": 9754367
+      }
+    },
+    {
+      "query": "tag:#global  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#sp",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#misc",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 0.858341923133559,
-  "lineSizeMultiplier": 0.951060226770726,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.02991536458333,
+  "lineSizeMultiplier": 1.15971272786458,
   "collapse-forces": false,
-  "centerStrength": 0.475261375349728,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0.4146728515625,
+  "repelStrength": 19.27734375,
+  "linkStrength": 0.528767903645833,
   "linkDistance": 500,
-  "scale": 0.12080352285436902,
+  "scale": 0.6909380152786645,
   "close": false
 }

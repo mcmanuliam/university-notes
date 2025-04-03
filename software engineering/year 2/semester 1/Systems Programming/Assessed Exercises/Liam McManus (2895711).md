@@ -1,3 +1,5 @@
+#sp 
+
 ***Just a heads up before you read any further, my Obsidian notes are set to American spelling, and I can't figure out how to change it. As you can probably tell already most words in this document follow American spelling. Let's just go with it and assume SpaceY is an American company***
 
 ---

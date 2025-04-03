@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🖥",
-      "😵",
-      "🏠",
-      "💸",
-      "👨‍🏫"
+      "LiUser",
+      "LiNotebookText",
+      "LiTestTube2",
+      "LiWorkflow",
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,53 @@
   "home.md": "LiBookmark",
   "subjects": "LiBook",
   "quick-notes": "LiPencil",
-  "projects": "LiComputer"
+  "projects": "LiComputer",
+  "files": {
+    "iconName": "LiFiles",
+    "iconColor": "#cbffc7"
+  },
+  "misc": {
+    "iconName": "LiBox",
+    "iconColor": "#e8bdff"
+  },
+  "software engineering": {
+    "iconName": "LiCode",
+    "iconColor": "#b4c6ee"
+  },
+  "utilities": {
+    "iconName": "LiPen",
+    "iconColor": "#ffddad"
+  },
+  "Daily Study.md": {
+    "iconName": "LiCalendar",
+    "iconColor": "#ffb3b3"
+  },
+  "software engineering/year 2/semester 1/Data Storage and Retrieval": {
+    "iconName": "LiDatabase",
+    "iconColor": "#ffb8c9"
+  },
+  "software engineering/year 2/semester 1/Practical Algorithms": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#99c5ff"
+  },
+  "software engineering/year 2/semester 1/Systems Programming": {
+    "iconName": "LiComputer",
+    "iconColor": "#c885ff"
+  },
+  "software engineering/year 2/semester 2/Advanced Professional Software Engineering": {
+    "iconName": "LiWorkflow",
+    "iconColor": "#bdfff7"
+  },
+  "software engineering/year 2/semester 2/Data Science Fundamentals": {
+    "iconName": "LiTestTube2",
+    "iconColor": "#e0b3ff"
+  },
+  "software engineering/year 2/semester 2/Algorithmics": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#d6ff99"
+  },
+  "software engineering/year 2/semester 2/User Interaction": {
+    "iconName": "LiUser",
+    "iconColor": "#a8fff5"
+  }
 }

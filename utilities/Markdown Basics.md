@@ -1,3 +1,4 @@
+#global
 ### 1. Headers
 Headers in Markdown are created by using the `#` symbol. The number of `#` symbols determines the header level.
 
