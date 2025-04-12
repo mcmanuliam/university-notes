@@ -21,7 +21,26 @@
     "excalidraw": 9,
     "deepseek": 10,
     "dsf": 11,
-    "ui": 12
+    "ui": 12,
+    "tutorial": 13,
+    "assessed_exercise": 14,
+    "Unit": 15,
+    "Autoethnography": 16,
+    "dsf/deepseek": 1,
+    "algo/assessed_exercise": 1,
+    "algo/assessedexercise": 2,
+    "algo/tutorial": 3,
+    "misc/work": 1,
+    "dsr/assessedexercise": 1,
+    "dsr/keynote": 2,
+    "pa/keynote": 1,
+    "pa/assessedexercise": 2,
+    "sp/assessedexercise": 1,
+    "global/keynote": 1,
+    "ui/assessed_exercise": 1,
+    "ui/assessedexercise": 2,
+    "miscadfsa": 17,
+    "work": 18
   },
   "_version": 3
 }

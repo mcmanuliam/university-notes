@@ -4,28 +4,28 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#ui  ",
       "color": {
         "a": 1,
-        "rgb": 10735871
+        "rgb": 9750783
       }
     },
     {
       "query": "tag:#dsf  ",
       "color": {
         "a": 1,
-        "rgb": 15990712
+        "rgb": 16759552
       }
     },
     {
       "query": "tag:#apse  ",
       "color": {
         "a": 1,
-        "rgb": 11403236
+        "rgb": 16743138
       }
     },
     {
@@ -46,14 +46,14 @@
       "query": "tag:#algo  ",
       "color": {
         "a": 1,
-        "rgb": 14483368
+        "rgb": 13172597
       }
     },
     {
       "query": "tag:#pa",
       "color": {
         "a": 1,
-        "rgb": 9754367
+        "rgb": 1730303
       }
     },
     {
@@ -67,14 +67,21 @@
       "query": "tag:#sp",
       "color": {
         "a": 1,
-        "rgb": 7029503
+        "rgb": 9917183
       }
     },
     {
       "query": "tag:#misc",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14545400
+      }
+    },
+    {
+      "query": "tag:#work",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -88,6 +95,6 @@
   "repelStrength": 19.27734375,
   "linkStrength": 0.528767903645833,
   "linkDistance": 99,
-  "scale": 0.2477239599881414,
+  "scale": 0.38534635141693313,
   "close": false
 }
