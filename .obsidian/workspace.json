@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "316f702885b6a92c",
+        "id": "f6e8f507a9feaa77",
         "type": "tabs",
         "children": [
           {
-            "id": "0c6817d992714e67",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "university/year 2/semester 2/Data Science Fundamentals/Slides/1. Numerical Arrays/1.1 Numerical Arrays, Part 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1.1 Numerical Arrays, Part 1"
-            }
-          },
-          {
-            "id": "c9cc564833ebabd7",
+            "id": "05774c8e8afdceb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Study.md",
+                "file": "misc/Snippets/Usability Evaluations/1.0 04-19-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Study"
+              "title": "1.0 04-19-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pa/assessedexercise",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 200
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -209,53 +196,54 @@
       "obsidian-excalidraw-plugin:New drawing": true
     }
   },
-  "active": "c9cc564833ebabd7",
+  "active": "05774c8e8afdceb3",
   "lastOpenFiles": [
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/2. Visualisation/2.1  Scientific visualisation, Part 1.pdf",
-    "Daily Study.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/1. Numerical Arrays/1.2 Numerical Arrays, Part 2.pdf",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/1. Numerical Arrays/1.1 Numerical Arrays, Part 1.pdf",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/2. Visualisation/2.2  Scientific visualisation, Part 2.pdf",
-    "working hard or hardly working/Master, CRM - Application From Links - 28789.md",
-    "working hard or hardly working/Master - Locking Forums - 29152.md",
-    "misc/Papermill AI Session/1. Papermill AI Session.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Lab Notes/2. Graphs.md",
-    "university/year 2/semester 2/Algorithmics/Assessed Exercise/Notepad.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Key Notes/Maths Primer.pdf",
-    "university/year 2/semester 2/Data Science Fundamentals/Units/Notepad.md",
-    "software engineering/year 2/semester 2/Data Science Fundamentals/Lab Notes/Untitled.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Lab Notes",
-    "university/year 2/semester 2/Data Science Fundamentals/Questions/1. Numerical Arrays.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/3. Matrices/3.2 Matrices, Part 2.pdf",
-    "working hard or hardly working",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/1. Numerical Arrays/1.3 Numerical Arrays, Part 3.pdf",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/3. Matrices/3.3 Matrices, Part 3.pdf",
+    "misc/Steel & Silence - Cyberpunk RED/Notepad.md",
     "utilities/Markdown Basics.md",
+    "misc/Drawing 2025-04-24 11.40.23.excalidraw.md",
+    "Daily Study.md",
     "university/year 3/global/Course Choices.md",
-    "university/year 2/semester 2/User Interaction/Assessed Exercices/0. Overview.md",
-    "university/year 2/semester 2/User Interaction/Assessed Exercices/2. Heuristic Evaluation/2.0 Brief.md",
-    "university/year 2/semester 2/User Interaction/Assessed Exercices/1. Presentation Assessment/1.0 Brief.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Questions/3. Matrices/3.2 Matrices.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Questions/3. Matrices/3.1 Vertexes.md",
-    "university/year 2/semester 2/Algorithmics/Units/1. Sorting and Tries/1.1 Very quick recap.md",
-    "university/year 2/semester 2/Algorithmics/Tutorial/2. Strings and Text algorithms/2.2 String Comparison/2.2 Answers.md",
-    "university/year 2/semester 2/Algorithmics/Tutorial/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms/3.3 Answers.md",
-    "university/year 2/semester 2/Algorithmics/Tutorial/1. Sorting and Tries/1. Answers.md",
-    "university/year 2/semester 2/Algorithmics/Assessed Exercise/Assessed Exercise – Status and Implementation Reports.md",
-    "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/3. Process Improvement Report/AE3 - 2895711M - Process Improvement Report.md",
-    "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/3. Process Improvement Report/3. Draft.md",
+    "university/year 2/semester 2/User Interaction/Slides/13. Housekeeping.pdf",
+    "university/year 2/semester 2/User Interaction/Slides/9. Statistics.pdf",
+    "university/year 2/semester 2/User Interaction/Units/8. Statistics for User Studies.md",
+    "university/year 2/semester 2/User Interaction/Units/6. Surveys.md",
+    "university/year 2/semester 2/User Interaction/Units/3. Human Perception and Capabilities.md",
+    "university/year 2/semester 2/User Interaction/Slides/8. Surveys.pdf",
+    "university/year 2/semester 2/User Interaction/Exam/Example Questions.md",
+    "university/year 2/semester 2/User Interaction/Exam/Structure.md",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.3 Cognition.md",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.2 Heuristics.md",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.1 Usability.md",
+    "university/year 2/semester 2/Data Science Fundamentals/Slides/2. Visualisation/2.2  Scientific visualisation, Part 2.pdf",
+    "university/year 2/semester 2/Data Science Fundamentals/Slides/2. Visualisation/2.1  Scientific visualisation, Part 1.pdf",
+    "misc/Steel & Silence - Cyberpunk RED",
+    "files/images/Screenshot 2025-04-17 at 14.53.56.png",
+    "files/images/Screenshot 2025-04-16 at 10.23.56.png",
+    "files/images/matrix.png",
+    "files/images/Pasted image 20250417145316.png",
+    "misc/Snippets/notepad.md",
+    "misc/Snippets/Usability Evaluations/1.0 04-19-2025.md",
+    "misc/Snippets/Snippets.md",
+    "misc/Snippets/Snippets",
+    "misc/Snippets/Usability Evaluations",
+    "university/year 2/semester 2/User Interaction/Assessed Exercices/2. Heuristic Evaluation/2.1 Essay.md",
+    "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Feedback.md",
+    "university/year 2/semester 2/Data Science Fundamentals/Units/5. Probability/5.1 Probability Theory, Discrete and Continuous Values.md",
     "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Assessed Exercise.md",
-    "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/1.2 Part B. A Null process?.md",
-    "files/images/Screenshot 2025-04-09 at 14.17.09.png",
-    "files/images/Screenshot 2025-04-09 at 14.23.08.png",
-    "files/images/Screenshot 2025-04-09 at 14.21.48.png",
-    "files/images/Screenshot 2025-04-07 at 22.17.39.png",
-    "files/images/Screenshot 2025-04-07 at 22.21.16.png",
-    "files/images/Screenshot 2025-04-08 at 15.51.34.png",
-    "files/images/Screenshot 2025-04-08 at 15.48.37.png",
-    "files/images/Screenshot 2025-04-08 at 15.41.21.png",
-    "files/images/Screenshot 2025-04-08 at 14.43.46.png",
-    "files/images/Screenshot 2025-04-08 at 14.43.20.png",
+    "university/year 2/semester 2/User Interaction/Slides/2. Heuristics/2.2. Heuristic Evaluation & Cognition.pdf",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.4 Heuristics Evaluation.md",
+    "files/images/Screenshot 2025-04-17 at 14.53.39.png",
+    "university/year 2/semester 2/Data Science Fundamentals/Units/4. Optimisation/4.1  Parameters and objective functions.md",
+    "university/year 2/semester 1/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md",
+    "university/year 2/semester 2/User Interaction/Assessed Exercices/0. Overview.md",
+    "university/year 2/semester 1/Practical Algorithms/Units/0. Formula Sheet.md",
+    "university/year 2/semester 2/Data Science Fundamentals/Slides/3. Matrices/3.1 Matrices, Part 1.pdf",
+    "university/year 2/semester 2/Data Science Fundamentals/Slides/3. Matrices/Drawing 2025-04-17 09.26.41.excalidraw.md",
+    "files/images/Screenshot 2025-04-16 at 10.24.42.png",
+    "files/images/Screenshot 2025-04-16 at 10.23.21.png",
+    "files/images/Screenshot 2025-04-16 at 10.20.41.png",
+    "files/images/Screenshot 2025-04-16 at 10.20.21.png",
+    "files/images/Screenshot 2025-04-16 at 10.19.31.png",
     "Untitled.canvas"
   ]
 }

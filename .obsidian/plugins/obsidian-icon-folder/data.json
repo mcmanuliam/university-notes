@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSword",
+      "LiAppWindowMac",
+      "LiCodeSquare",
       "LiBriefcaseBusiness",
-      "LiSparkles",
-      "LiUser",
-      "LiNotebookText",
-      "LiTestTube2"
+      "LiSparkles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,10 +49,6 @@
     "iconName": "LiPen",
     "iconColor": "#ffddad"
   },
-  "Daily Study.md": {
-    "iconName": "LiCalendar",
-    "iconColor": "#ffb3b3"
-  },
   "misc/Papermill AI Session": {
     "iconName": "LiSparkles",
     "iconColor": "#fdc958"
@@ -88,5 +84,13 @@
   "university/year 2/semester 2/User Interaction": {
     "iconName": "LiUser",
     "iconColor": "#a8fff5"
+  },
+  "misc/Snippets": {
+    "iconName": "LiAppWindowMac",
+    "iconColor": "#ffb8c9"
+  },
+  "Daily Study.md": {
+    "iconName": "LiCalendar",
+    "iconColor": "#ffb3b3"
   }
 }
