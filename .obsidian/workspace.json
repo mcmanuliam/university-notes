@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Snippets/Usability Evaluations/1.0 04-19-2025.md",
+                "file": "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/1.2 Part B. A Null process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 04-19-2025"
+              "title": "1.2 Part B. A Null process"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 560.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -198,6 +198,7 @@
   },
   "active": "05774c8e8afdceb3",
   "lastOpenFiles": [
+    "misc/Snippets/Usability Evaluations/1.0 04-19-2025.md",
     "misc/Steel & Silence - Cyberpunk RED/Notepad.md",
     "utilities/Markdown Basics.md",
     "misc/Drawing 2025-04-24 11.40.23.excalidraw.md",
@@ -222,7 +223,6 @@
     "files/images/matrix.png",
     "files/images/Pasted image 20250417145316.png",
     "misc/Snippets/notepad.md",
-    "misc/Snippets/Usability Evaluations/1.0 04-19-2025.md",
     "misc/Snippets/Snippets.md",
     "misc/Snippets/Snippets",
     "misc/Snippets/Usability Evaluations",
