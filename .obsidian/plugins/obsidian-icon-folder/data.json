@@ -92,5 +92,9 @@
   "Daily Study.md": {
     "iconName": "LiCalendar",
     "iconColor": "#ffb3b3"
+  },
+  "dungeons & dragons": {
+    "iconName": "LiSword",
+    "iconColor": "#ff0040"
   }
 }

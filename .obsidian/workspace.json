@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e8f507a9feaa77",
+        "id": "673786a1272d69f0",
         "type": "tabs",
         "children": [
           {
-            "id": "05774c8e8afdceb3",
+            "id": "1a9c42f3bea8e78f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/1.2 Part B. A Null process.md",
-                "mode": "source",
-                "source": false
+                "file": "dungeons & dragons/Assets/Cyberpunk RED.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1.2 Part B. A Null process"
+              "icon": "lucide-file-text",
+              "title": "Cyberpunk RED"
             }
           }
         ]
@@ -53,8 +51,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "preorder",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 290.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -128,9 +126,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -142,12 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Software Engineering/Year 2/Systems Programming/Assessed Exercises/Assessed Exercise 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Assessed Exercise 2"
             }
           },
           {
@@ -179,71 +173,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 370.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
-      "canvas:Create new canvas": true,
-      "print:Print note": true,
-      "obsidian-excalidraw-plugin:New drawing": true
+      "canvas:Create new canvas": false,
+      "print:Print note": false
     }
   },
-  "active": "05774c8e8afdceb3",
+  "active": "1a9c42f3bea8e78f",
   "lastOpenFiles": [
-    "misc/Snippets/Usability Evaluations/1.0 04-19-2025.md",
-    "misc/Steel & Silence - Cyberpunk RED/Notepad.md",
-    "utilities/Markdown Basics.md",
-    "misc/Drawing 2025-04-24 11.40.23.excalidraw.md",
-    "Daily Study.md",
-    "university/year 3/global/Course Choices.md",
-    "university/year 2/semester 2/User Interaction/Slides/13. Housekeeping.pdf",
-    "university/year 2/semester 2/User Interaction/Slides/9. Statistics.pdf",
-    "university/year 2/semester 2/User Interaction/Units/8. Statistics for User Studies.md",
-    "university/year 2/semester 2/User Interaction/Units/6. Surveys.md",
-    "university/year 2/semester 2/User Interaction/Units/3. Human Perception and Capabilities.md",
-    "university/year 2/semester 2/User Interaction/Slides/8. Surveys.pdf",
-    "university/year 2/semester 2/User Interaction/Exam/Example Questions.md",
-    "university/year 2/semester 2/User Interaction/Exam/Structure.md",
-    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.3 Cognition.md",
-    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.2 Heuristics.md",
-    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.1 Usability.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/2. Visualisation/2.2  Scientific visualisation, Part 2.pdf",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/2. Visualisation/2.1  Scientific visualisation, Part 1.pdf",
-    "misc/Steel & Silence - Cyberpunk RED",
-    "files/images/Screenshot 2025-04-17 at 14.53.56.png",
-    "files/images/Screenshot 2025-04-16 at 10.23.56.png",
-    "files/images/matrix.png",
-    "files/images/Pasted image 20250417145316.png",
-    "misc/Snippets/notepad.md",
-    "misc/Snippets/Snippets.md",
-    "misc/Snippets/Snippets",
-    "misc/Snippets/Usability Evaluations",
-    "university/year 2/semester 2/User Interaction/Assessed Exercices/2. Heuristic Evaluation/2.1 Essay.md",
-    "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Feedback.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Units/5. Probability/5.1 Probability Theory, Discrete and Continuous Values.md",
-    "university/year 2/semester 2/Advanced Professional Software Engineering/Assessed Exercices/1. Classical Literature/Assessed Exercise.md",
-    "university/year 2/semester 2/User Interaction/Slides/2. Heuristics/2.2. Heuristic Evaluation & Cognition.pdf",
-    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.4 Heuristics Evaluation.md",
-    "files/images/Screenshot 2025-04-17 at 14.53.39.png",
-    "university/year 2/semester 2/Data Science Fundamentals/Units/4. Optimisation/4.1  Parameters and objective functions.md",
-    "university/year 2/semester 1/Practical Algorithms/Units/7. Counting and Probability/7.4 Probability.md",
-    "university/year 2/semester 2/User Interaction/Assessed Exercices/0. Overview.md",
-    "university/year 2/semester 1/Practical Algorithms/Units/0. Formula Sheet.md",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/3. Matrices/3.1 Matrices, Part 1.pdf",
-    "university/year 2/semester 2/Data Science Fundamentals/Slides/3. Matrices/Drawing 2025-04-17 09.26.41.excalidraw.md",
+    "dungeons & dragons/Assets/Black Chrome.pdf",
+    "dungeons & dragons/Assets/Cyberpunk RED.pdf",
+    "dungeons & dragons/Assets/Cyberpunk RED (2).pdf",
+    "dungeons & dragons/Assets/FICTION Cyberpunk RED_ Digital Edition (v1.24)_compressed.pdf",
+    "dungeons & dragons/Assets/Cyberpunk RED.zip",
+    "dungeons & dragons/Assets",
+    "dungeons & dragons",
+    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples/LZW Base Example.pdf",
+    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples/LZW Special Case.pdf",
+    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 Text Compression.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.2 Minimum Spanning Tree (Prim-Jarnik and Dijkstra's refinement).md",
+    "university/year 2/semester 2/User Interaction/Units/5. Personas & Scenarios/5.3 Task/5.3.2 General Persona.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.1 Shortest path (Dijkstra's Algorithm).md",
+    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples",
+    "university/year 2/semester 2/User Interaction/Units/5. Personas & Scenarios/5.3 Task/5.3.1 Individual Persona.pdf",
+    "university/year 2/semester 2/Algorithmics/Tutorial/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms/3.3 Answers.md",
+    "university/year 2/semester 2/Algorithmics/Tutorial/2. Strings and Text algorithms/2.2 String Comparison/2.2 Answers.md",
+    "university/year 2/semester 1/Practical Algorithms/Exercises/Assessed Exercise 2/Assessed Exercise 2. Report.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.9 Church-Turing thesis.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.8 Counter Programs.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.1 Introduction.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.7 Turing Time.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.6 Pushdown Automata.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.4 Regex.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.3 Models of Computation.md",
+    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.2 The Halting Problem.md",
+    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.5 Formal definition of NP-completeness.md",
+    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.4  Polynomial-time reductions.md",
+    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.3 The classes P and NP.md",
+    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.2 NP-Complete Problems.md",
+    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.1 Introduction.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.4 Topological ordering.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.2 Graph Representations.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.1 Graph Basics.md",
+    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.3 Pattern or String matching.md",
+    "files/images/Single.png",
+    "files/images/Usage.png",
     "files/images/Screenshot 2025-04-16 at 10.24.42.png",
-    "files/images/Screenshot 2025-04-16 at 10.23.21.png",
-    "files/images/Screenshot 2025-04-16 at 10.20.41.png",
-    "files/images/Screenshot 2025-04-16 at 10.20.21.png",
+    "files/images/structure.png",
+    "files/images/Thin.png",
+    "files/images/Screenshot 2025-04-17 at 14.53.56.png",
+    "files/images/Screenshot 2025-04-17 at 14.53.39.png",
     "files/images/Screenshot 2025-04-16 at 10.19.31.png",
+    "files/images/Screenshot 2025-04-16 at 10.23.56.png",
+    "files/images/Screenshot 2025-04-16 at 10.23.21.png",
     "Untitled.canvas"
   ]
 }
