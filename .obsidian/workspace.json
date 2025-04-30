@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "673786a1272d69f0",
+        "id": "a172afa78fd6aeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "1a9c42f3bea8e78f",
+            "id": "1e4ad1ccbf2cf2fc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "dungeons & dragons/Assets/Cyberpunk RED.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Cyberpunk RED"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "preorder",
+                "query": "automata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 371.5
   },
   "right": {
     "id": "3c723a87b7927f31",
@@ -190,44 +188,44 @@
       "print:Print note": false
     }
   },
-  "active": "1a9c42f3bea8e78f",
+  "active": "1e4ad1ccbf2cf2fc",
   "lastOpenFiles": [
-    "dungeons & dragons/Assets/Black Chrome.pdf",
+    "university/year 2/semester 2/User Interaction/Units/4. Experimental Design & Variables Research/4.0 Designing HCI Experiments.pdf",
     "dungeons & dragons/Assets/Cyberpunk RED.pdf",
-    "dungeons & dragons/Assets/Cyberpunk RED (2).pdf",
-    "dungeons & dragons/Assets/FICTION Cyberpunk RED_ Digital Edition (v1.24)_compressed.pdf",
-    "dungeons & dragons/Assets/Cyberpunk RED.zip",
+    "dungeons & dragons/Assets/Black Chrome.pdf",
     "dungeons & dragons/Assets",
-    "dungeons & dragons",
-    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples/LZW Base Example.pdf",
-    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples/LZW Special Case.pdf",
-    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 Text Compression.md",
-    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.2 Minimum Spanning Tree (Prim-Jarnik and Dijkstra's refinement).md",
+    "university/year 2/semester 2/User Interaction/Slides/8. Surveys.pdf",
+    "university/year 2/semester 2/User Interaction/Slides/11. Models of Interaction & AB Testing.pdf",
+    "university/year 2/semester 2/User Interaction/Slides/10. Theories in HCI.pdf",
+    "university/year 2/semester 2/User Interaction/Slides/9. Statistics.pdf",
+    "university/year 2/semester 2/User Interaction/Units/4. Experimental Design & Variables Research/4.2 Task, Experiment Design Task.md",
+    "university/year 2/semester 2/User Interaction/Units/4. Experimental Design & Variables Research/4.1 Experimental Design & Variables Research.md",
+    "university/year 2/semester 2/User Interaction/Units/7. Ethography/7.2 Task, Conducting Interviews.md",
+    "university/year 2/semester 2/User Interaction/Units/7. Ethography/7.1 Ethnography (Life Among the Gorillas).md",
+    "university/year 2/semester 2/User Interaction/Units/5. Personas & Scenarios/5.2 User Scenarios.md",
+    "university/year 2/semester 2/User Interaction/Units/5. Personas & Scenarios/5.1 Personas.md",
     "university/year 2/semester 2/User Interaction/Units/5. Personas & Scenarios/5.3 Task/5.3.2 General Persona.md",
-    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.1 Shortest path (Dijkstra's Algorithm).md",
-    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.1 Text Compression/2.1 LZW Examples",
     "university/year 2/semester 2/User Interaction/Units/5. Personas & Scenarios/5.3 Task/5.3.1 Individual Persona.pdf",
-    "university/year 2/semester 2/Algorithmics/Tutorial/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms/3.3 Answers.md",
-    "university/year 2/semester 2/Algorithmics/Tutorial/2. Strings and Text algorithms/2.2 String Comparison/2.2 Answers.md",
-    "university/year 2/semester 1/Practical Algorithms/Exercises/Assessed Exercise 2/Assessed Exercise 2. Report.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.9 Church-Turing thesis.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.8 Counter Programs.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.1 Introduction.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.7 Turing Time.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.6 Pushdown Automata.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.4 Regex.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.3 Models of Computation.md",
-    "university/year 2/semester 2/Algorithmics/Units/5. Computability/5.2 The Halting Problem.md",
-    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.5 Formal definition of NP-completeness.md",
-    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.4  Polynomial-time reductions.md",
-    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.3 The classes P and NP.md",
-    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.2 NP-Complete Problems.md",
-    "university/year 2/semester 2/Algorithmics/Units/4. NP Completeness/4.1 Introduction.md",
+    "dungeons & dragons/Cyberpunk RED.pdf",
+    "dungeons & dragons/Black Chrome.pdf",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.4 Heuristics Evaluation.md",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.3 Cognition.md",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.1 Usability.md",
+    "university/year 2/semester 2/User Interaction/Units/2. Usability and Heuristics/2.2 Heuristics.md",
+    "utilities/Markdown Basics.md",
+    "university/year 2/semester 2/User Interaction/Units/10. Models of Interaction & AB Testing/10.2 AB Testing.md",
+    "university/year 2/semester 2/User Interaction/Units/9. Theories in HCI/9.3 Task.md",
+    "Daily Study.md",
+    "Drawing 2025-04-25 08.27.22.excalidraw.md",
+    "misc/Snippets/notepad.md",
+    "dungeons & dragons/Lore/Fourth Corporate War (2022–2023).md",
+    "Untitled.md",
+    "dungeons & dragons/Notes.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.1 Graph Basics.md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.2 Minimum Spanning Tree (Prim-Jarnik and Dijkstra's refinement).md",
+    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.5 Weighted Graphs/3.5.1 Shortest path (Dijkstra's Algorithm).md",
     "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.4 Topological ordering.md",
     "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.3 Graph search and Traversal Algorithms.md",
-    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.2 Graph Representations.md",
-    "university/year 2/semester 2/Algorithmics/Units/3. Graphs and Graph algorithms/3.1 Graph Basics.md",
-    "university/year 2/semester 2/Algorithmics/Units/2. Strings and Text algorithms/2.3 Pattern or String matching.md",
     "files/images/Single.png",
     "files/images/Usage.png",
     "files/images/Screenshot 2025-04-16 at 10.24.42.png",
